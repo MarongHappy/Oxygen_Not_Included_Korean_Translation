@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Oxygen Not Included\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-03-15 02:18+0900\n"
+"PO-Revision-Date: 2018-03-15 03:23+0900\n"
 "Last-Translator: 마롱행복 <daemul72@gmail.com>\n"
 "Language-Team: 꿈꾸는나무(http://blog.naver.com/eulsoon0) (MarongHappy)\n"
 "Language: ko_KR\n"
@@ -2728,7 +2728,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME"
 msgid "<link=\"AIRFILTER\">Deodorizer</link>"
-msgstr "<link=\"AIRFILTER\">탈취제</link>"
+msgstr "<link=\"AIRFILTER\">탈취기</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC"
@@ -2736,24 +2736,24 @@ msgid ""
 "Algae distillers convert disease-causing slime into algae for oxygen "
 "production."
 msgstr ""
-"조류 추출기는 질병을 일으키는 슬라임을 산소 생산을 위한 죠류로 변환합니다.."
+"녹조 증류기는 질병을 일으키는 슬라임을 산소 생산을 위한 죠류로 변환합니다.."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT"
 msgid ""
 "Refines<link=\"SLIMEMOLD\">Slime</link>into <link=\"ALGAE\">Algae</link>."
 msgstr ""
-"<link=\"SLIMEMOLD\">슬라임</link>을 <link=\"ALGAE\">조류</link>로 정제합니다."
+"<link=\"SLIMEMOLD\">슬라임</link>을 <link=\"ALGAE\">녹조</link>로 정제합니다."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME"
 msgid "<link=\"ALGAEDISTILLERY\">Algae Distiller</link>"
-msgstr "<link=\"ALGAEDISTILLERY\">Algae Distiller</link>"
+msgstr "<link=\"ALGAEDISTILLERY\">녹조 증류기</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC"
 msgid "Placing algae terrariums in well lit areas will produce more oxygen."
-msgstr "밝은 조명 구역에 조류 배양기들을 배치하면 더 많은 산소가 생성됩니다."
+msgstr "밝은 조명 구역에 녹조 배양기들을 배치하면 더 많은 산소가 생성됩니다."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT"
@@ -2763,7 +2763,7 @@ msgid ""
 "\n"
 "Gains a 10% efficiency boost in direct <link=\"LIGHT\">Light</link>."
 msgstr ""
-"<link=\"ALGAE\">조류</link>를 이용해 <link=\"OXYGEN\">산소</link>를 생성하고 "
+"<link=\"ALGAE\">녹조</link>를 이용해 <link=\"OXYGEN\">산소</link>를 생성하고 "
 "일부 <link=\"CARBONDIOXIDE\">이산화탄소</link>는 제거합니다.\n"
 "\n"
 "직접적인 <link=\"LIGHT\">조명</link>을 통해 10%의 효율성 향상 효과 획득."
@@ -2949,7 +2949,7 @@ msgstr "병에 담긴 <link=\"LIQUID\">액체</link>를 세상으로 되돌려 �
 #. STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.NAME"
 msgid "<link=\"BOTTLEEMPTIER\">Bottle Emptier</link>"
-msgstr "<link=\"BOTTLEEMPTIER\">Bottle Emptier</link>"
+msgstr "<link=\"BOTTLEEMPTIER\">병 비우개</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BURNER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BURNER.DESC"
@@ -3106,7 +3106,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME"
 msgid "<link=\"CO2SCRUBBER\">Carbon Skimmer</link>"
-msgstr "<link=\"CO2SCRUBBER\">탄소 여과기</link>"
+msgstr "<link=\"CO2SCRUBBER\">탄소 스키머</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.DESC"
@@ -3177,7 +3177,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATUREDELIVERYPOINT.NAME"
 msgid "<link=\"CREATUREDELIVERYPOINT\">Critter Drop-Off</link>"
-msgstr "<link=\"CREATUREDELIVERYPOINT\">동물 Drop-Off</link>"
+msgstr "<link=\"CREATUREDELIVERYPOINT\">동물 떨구개</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CREATUREFEEDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATUREFEEDER.DESC"
@@ -3185,7 +3185,7 @@ msgid ""
 "Critters tend to stay close to their food source and will wander less when "
 "given a Feeder."
 msgstr ""
-"동물들은 식량원에 가깝게 머무르는 경향이 있으며 먹이통이 주어지면 덜 떠돌아 "
+"동물들은 식량원에 가깝게 머무르는 경향이 있으며 사료통이 주어지면 덜 떠돌아 "
 "다닙니다."
 
 #. STRINGS.BUILDINGS.PREFABS.CREATUREFEEDER.EFFECT
@@ -3196,7 +3196,7 @@ msgstr "배고픈 동물을 위해 음식을 자동으로 분배합니다."
 #. STRINGS.BUILDINGS.PREFABS.CREATUREFEEDER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATUREFEEDER.NAME"
 msgid "<link=\"CREATUREFEEDER\">Critter Feeder</link>"
-msgstr "<link=\"CREATUREFEEDER\">동물 먹이통</link>"
+msgstr "<link=\"CREATUREFEEDER\">동물 사료통</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CREATURETRAP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATURETRAP.DESC"
@@ -3694,7 +3694,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME"
 msgid "<link=\"GASCONDUITBRIDGE\">Gas Bridge</link>"
-msgstr "<link=\"GASCONDUITBRIDGE\">가스관 브리지</link>"
+msgstr "<link=\"GASCONDUITBRIDGE\">가스관브리지</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC"
@@ -4266,7 +4266,7 @@ msgstr "듀플리칸트의 기어오르는 속도를 증가시킵니다."
 #. STRINGS.BUILDINGS.PREFABS.LADDERFAST.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDERFAST.NAME"
 msgid "<link=\"LADDERFAST\">Plastic Ladder</link>"
-msgstr "<link=\"LADDERFAST\">플라스틱 사다리</link>"
+msgstr "<link=\"LADDERFAST\"> 플라스틱  사다리</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDITIONER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDITIONER.DESC"
@@ -4334,7 +4334,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME"
 msgid "<link=\"LIQUIDCONDUITBRIDGE\">Liquid Bridge</link>"
-msgstr "<link=\"LIQUIDCONDUITBRIDGE\">액체관 브리지</link>"
+msgstr "<link=\"LIQUIDCONDUITBRIDGE\">액체관브리지</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC"
@@ -4801,7 +4801,7 @@ msgstr "켜짐/꺼짐"
 #. STRINGS.BUILDINGS.PREFABS.LOGICPOWERRELAY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICPOWERRELAY.NAME"
 msgid "<link=\"LOGICPOWERRELAY\">Power Shutoff</link>"
-msgstr "<link=\"LOGICPOWERRELAY\">전원 차단</link>"
+msgstr "<link=\"LOGICPOWERRELAY\">전원 차단기</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORGAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORGAS.DESC"
@@ -5088,7 +5088,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.NAME"
 msgid "<link=\"MANUALPRESSUREDOOR\">Manual Airlock</link>"
-msgstr "<link=\"MANUALPRESSUREDOOR\">수동 에어락</link>"
+msgstr "<link=\"MANUALPRESSUREDOOR\">수동 에어록</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.ACTIVATE_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.ACTIVATE_TOOLTIP"
@@ -5337,7 +5337,7 @@ msgid ""
 "Algae deoxydizers are inefficient, but can output enough <link=\"oxygen"
 "\">Oxygen</link> to keep a colony breathing."
 msgstr ""
-"조류 탈산기는 비효율적이지만, 개척지 호흡을 유지하기에 충분한 <link=\"OXYGEN"
+"녹조 탈산기는 비효율적이지만, 개척지 호흡을 유지하기에 충분한 <link=\"OXYGEN"
 "\">산소</link>를 배출할 수 있습니다."
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.EFFECT
@@ -5348,7 +5348,7 @@ msgid ""
 "\n"
 "Becomes idle when the area reaches maximum pressure capacity."
 msgstr ""
-"많은 양의 <link=\"ALGAE\">조류</link>를 <link=\"OXYGEN\">산소</link>로 변환합"
+"많은 양의 <link=\"ALGAE\">녹조</link>를 <link=\"OXYGEN\">산소</link>로 변환합"
 "니다.\n"
 "\n"
 "구역이 최대 압력 용량에 도달하면 작동이 중단됩니다."
@@ -5356,7 +5356,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME"
 msgid "<link=\"MINERALDEOXIDIZER\">Algae Deoxydizer</link>"
-msgstr "<link=\"MINERALDEOXIDIZER\">조류 탈산기</link>"
+msgstr "<link=\"MINERALDEOXIDIZER\">녹조 탈산기</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.OILREFINERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.OILREFINERY.DESC"
@@ -5567,7 +5567,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.POLYMERIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POLYMERIZER.NAME"
 msgid "<link=\"POLYMERIZER\">Polymer Press</link>"
-msgstr "<link=\"POLYMERIZER\">고분자 압축기</link>"
+msgstr "<link=\"POLYMERIZER\">고분자프레스</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.DESC"
@@ -5645,7 +5645,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME"
 msgid "<link=\"PRESSUREDOOR\">Mechanized Airlock</link>"
-msgstr "<link=\"PRESSUREDOOR\">기계화된 에어락</link>"
+msgstr "<link=\"PRESSUREDOOR\">자동 에어록</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.DESC"
@@ -5731,7 +5731,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.RANCHSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RANCHSTATION.NAME"
 msgid "<link=\"RANCHSTATION\">Grooming Station</link>"
-msgstr "<link=\"RANCHSTATION\">미용실</link>"
+msgstr "<link=\"RANCHSTATION\">미용대</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC"
@@ -5803,7 +5803,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME"
 msgid "<link=\"RESEARCHCENTER\">Research Station</link>"
-msgstr "<link=\"RESEARCHCENTER\">연구실</link>"
+msgstr "<link=\"RESEARCHCENTER\">연구대</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.DESC"
@@ -6350,7 +6350,7 @@ msgid ""
 "Duplicants will only exit a transit tube when a safe landing area is "
 "available beneath it."
 msgstr ""
-"듀플리칸트들은 안전한 착륙 지점이 아래에 있는 경우에만 운송 튜브를 빠져 나옵"
+"듀플리칸트들은 안전한 착륙 지점이 아래에 있는 경우에만 수송 튜브를 빠져 나옵"
 "니다."
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBE.EFFECT
@@ -6369,7 +6369,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBE.NAME"
 msgid "<link=\"TRAVELTUBE\">Transit Tube</link>"
-msgstr "<link=\"TRAVELTUBE\">운송 튜브</link>"
+msgstr "<link=\"TRAVELTUBE\">수송 튜브</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEENTRANCE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEENTRANCE.DESC"
@@ -6404,7 +6404,7 @@ msgid ""
 "Tube crossings can run transit tubes through walls without leaking gas or "
 "liquid."
 msgstr ""
-"튜브 교차점은 가스 또는 액체 누설없이 벽을 통해 운송 튜브를 운용할 수 있습니"
+"튜브 교차점은 가스 또는 액체 누설없이 벽을 통해 수송 튜브를 운용할 수 있습니"
 "다."
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEWALLBRIDGE.EFFECT
@@ -6415,7 +6415,7 @@ msgid ""
 "\n"
 "Functions as a regular tile."
 msgstr ""
-"벽 및 바닥 타일을 통과하도록 <link=\"TRAVELTUBE\">운송 튜브</link>를 허용합니"
+"벽 및 바닥 타일을 통과하도록 <link=\"TRAVELTUBE\">수송 튜브</link>를 허용합니"
 "다.\n"
 "\n"
 "일반 타일과 같은 기능을합니다."
@@ -12016,12 +12016,12 @@ msgstr "바닥에서 떨어진 전해를 쓸어 담아 개척지의 장식수치
 #. STRINGS.DUPLICANTS.CHORES.TRAVELTUBEENTRANCE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRAVELTUBEENTRANCE.NAME"
 msgid "Enter Transit Tube"
-msgstr "운송 튜브 들어가기"
+msgstr "수송 튜브 들어가기"
 
 #. STRINGS.DUPLICANTS.CHORES.TRAVELTUBEENTRANCE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRAVELTUBEENTRANCE.STATUS"
 msgid "Entering Transit Tube"
-msgstr "운송 튜브 들어가는 중"
+msgstr "수송 튜브 들어가는 중"
 
 #. STRINGS.DUPLICANTS.CHORES.TRAVELTUBEENTRANCE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRAVELTUBEENTRANCE.TOOLTIP"
@@ -17776,15 +17776,15 @@ msgid ""
 "It can be used to produce <link=\"OXYGEN\">Oxygen</link> when grown in Algae "
 "Terrariums."
 msgstr ""
-"조류는 비 운동성, 단일 세포 생명체의 집단입니다.\n"
+"녹조는 비 운동성, 단일 세포 생명체의 집단입니다.\n"
 "\n"
-"이것은 조류 배양기에서 성장시키면 <link=\"OXYGEN\">산소</link>를 생산하는 데 "
+"이것은 녹조 배양기에서 성장시키면 <link=\"OXYGEN\">산소</link>를 생산하는 데 "
 "사용할 수 있습니다."
 
 #. STRINGS.ELEMENTS.ALGAE.NAME
 msgctxt "STRINGS.ELEMENTS.ALGAE.NAME"
 msgid "<link=\"ALGAE\">Algae</link>"
-msgstr "<link=\"ALGAE\">조류</link>"
+msgstr "<link=\"ALGAE\">녹조</link>"
 
 #. STRINGS.ELEMENTS.BLEACHSTONE.BUILD_DESC
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.BUILD_DESC"
@@ -19361,9 +19361,9 @@ msgid ""
 "It can be distilled into <link=\"ALGAE\">Algae</link> and is useful in some "
 "<link=\"OXYGEN\">Oxygen</link> production processes."
 msgstr ""
-"슬라임은 조류, 균류, 그리고 점액성 다당류들의 두꺼운 생체 혼합물입니다.\n"
+"슬라임은 녹조, 균류, 그리고 점액성 다당류들의 두꺼운 생체 혼합물입니다.\n"
 "\n"
-"이것에서 <link=\"ALGAE\">조류</link>를 추출할 수 있어 일부 <link=\"OXYGEN\">"
+"이것에서 <link=\"ALGAE\">녹조</link>를 추출할 수 있어 일부 <link=\"OXYGEN\">"
 "산소</link> 생산 과정에 유용합니다."
 
 #. STRINGS.ELEMENTS.SLIMEMOLD.NAME
@@ -21385,7 +21385,7 @@ msgstr "의료용 악취 제거제."
 #. STRINGS.ITEMS.PILLS.PUTRIDODOURMEDICINE.NAME
 msgctxt "STRINGS.ITEMS.PILLS.PUTRIDODOURMEDICINE.NAME"
 msgid "Deodorant"
-msgstr "탈취제"
+msgstr "탈취기"
 
 #. STRINGS.ITEMS.PILLS.PUTRIDODOURMEDICINE.RECIPEDESC
 msgctxt "STRINGS.ITEMS.PILLS.PUTRIDODOURMEDICINE.RECIPEDESC"
@@ -26101,7 +26101,7 @@ msgstr "신속하고, 안전하고, 스타일있게 귀하의 기지를 돌아 �
 #. STRINGS.RESEARCH.TECHS.TRAVELTUBES.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.TRAVELTUBES.NAME"
 msgid "<link=\"TRAVELTUBES\">Transit Tubes</link>"
-msgstr "<link=\"TRAVELTUBES\">운송 튜브</link>"
+msgstr "<link=\"TRAVELTUBES\">수송 튜브</link>"
 
 #. STRINGS.RESEARCH.TECHS.VALVEMINIATURIZATION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.VALVEMINIATURIZATION.DESC"
@@ -26196,17 +26196,17 @@ msgstr "의료용 침대"
 #. STRINGS.ROOMS.CRITERIA.CREATURE_FEEDER.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.CREATURE_FEEDER.DESCRIPTION"
 msgid "Requires a single Critter Feeder"
-msgstr "단일 동물 밥그릇 필요"
+msgstr "단일 동물 사료통 필요"
 
 #. STRINGS.ROOMS.CRITERIA.CREATURE_FEEDER.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.CREATURE_FEEDER.NAME"
 msgid "Critter Feeder"
-msgstr "동물 밥그릇"
+msgstr "동물 사료통"
 
 #. STRINGS.ROOMS.CRITERIA.CREATURE_RELOCATOR.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.CREATURE_RELOCATOR.DESCRIPTION"
 msgid "Requires a single Critter Drop-Off"
-msgstr "단일 동물 떨구기 필요"
+msgstr "단일 동물 떨구개 필요"
 
 #. STRINGS.ROOMS.CRITERIA.CREATURE_RELOCATOR.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.CREATURE_RELOCATOR.NAME"
@@ -26867,7 +26867,7 @@ msgstr "기지 주변.의 광석 및 고체 물질을 쉽게 운반 할 수 있�
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME"
 msgid "<link=\"BUILD_CATEGORY_EQUIPMENT\">Stations</link>"
-msgstr "<link=\"BUILD_CATEGORY_EQUIPMENT\">부서</link>"
+msgstr "<link=\"BUILD_CATEGORY_EQUIPMENT\">스테이션</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP"
@@ -26967,7 +26967,7 @@ msgstr "원하는 자원은 사용하고, 원하지 않는 자원을 거릅니�
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME"
 msgid "<link=\"BUILD_CATEGORY_UTILITIES\">Utilities</link>"
-msgstr "<link=\"BUILD_CATEGORY_UTILITIES\">다용도</link>"
+msgstr "<link=\"BUILD_CATEGORY_UTILITIES\">유용</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP"
@@ -33960,7 +33960,7 @@ msgstr "특성 : 지형지물 <style=\"research\">분석</style>"
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION"
 msgid "Trait: Grooming Station Training"
-msgstr "특성 : 미용실 훈련중"
+msgstr "특성 : 미용대 훈련중"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_WRANGLE_CREATURES.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_WRANGLE_CREATURES.DESCRIPTION"
@@ -35011,7 +35011,7 @@ msgid ""
 "Research buildings can be found in the Stations Tab <color=#F44A47>[0]</"
 "color> of the Build Menu"
 msgstr ""
-"잠금 해제 할 연구실 구축\n"
+"연구대를 만들어 잠금 해제\n"
 "------------------\n"
 "연구 시설은 시설 메뉴의 기지 탭 <color=#F44A47>[9]</color>에서 찾을 수 있습니"
 "다"
@@ -35024,9 +35024,9 @@ msgid ""
 "The Jobs Board can be found in the Stations Tab <color=#F44A47>[0]</color> "
 "of the Build Menu"
 msgstr ""
-"잠금 해제 할 연구실 구축\n"
+"직업 게시판을 만들어 잠금 해제\n"
 "------------------\n"
-"직업 게시판은 시설 메뉴의 기지 탭 <color=#F44A47>[9]</color>에서 찾을 수 있습"
+"직업 게시판은 시설 메뉴의 기지 탭 <color=#F44A47>[0]</color>에서 찾을 수 있습"
 "니다"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH
