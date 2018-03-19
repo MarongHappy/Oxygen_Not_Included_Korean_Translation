@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Oxygen Not Included\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-03-19 00:24+0900\n"
+"PO-Revision-Date: 2018-03-19 18:35+0900\n"
 "Last-Translator: 마롱행복 <daemul72@gmail.com>\n"
 "Language-Team: 꿈꾸는나무(http://blog.naver.com/eulsoon0) (MarongHappy)\n"
 "Language: ko_KR\n"
@@ -356,7 +356,7 @@ msgstr "배관 시스템을 이용할 수 없음"
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTABLEDIGUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTABLEDIGUNREACHABLE.NAME"
 msgid "Unreachable Dig"
-msgstr "채굴작업 도달불가"
+msgstr "채굴직업 도달불가"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTABLEDIGUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTABLEDIGUNREACHABLE.TOOLTIP"
@@ -366,7 +366,7 @@ msgstr "이 건설 현장에는 파낼 수 없는 칸이 포함되어 있습니�
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.NAME"
 msgid "Unreachable Build"
-msgstr "설치작업 도달불가"
+msgstr "설치직업 도달불가"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.TOOLTIP"
@@ -391,7 +391,7 @@ msgstr "내용물: {Contents}"
 #. STRINGS.BUILDING.STATUSITEMS.CONVEYOR.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONVEYOR.TOOLTIP"
 msgid "This conveyor is delivering {Contents}"
-msgstr "이 컨베이어는 {Contents}을(를) 운반하는 중입니다"
+msgstr "이 운반는 {Contents}을(를) 운반하는 중입니다"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONVEYOR_CONTENTS.CONTENTS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONVEYOR_CONTENTS.CONTENTS"
@@ -575,7 +575,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME"
 msgid "Unreachable Dig"
-msgstr "채굴작업 도달불가"
+msgstr "채굴직업 도달불가"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.TOOLTIP"
@@ -868,7 +868,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.GASPIPEEMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASPIPEEMPTY.NAME"
 msgid "Empty Pipe"
-msgstr "빈 기체관"
+msgstr "빈 가스관"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASPIPEEMPTY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASPIPEEMPTY.TOOLTIP"
@@ -1368,7 +1368,7 @@ msgstr "야생 식물을 뿌리째 뽑아서 씨앗을 획득합니다"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.NAME"
 msgid "No Conveyor Loader"
-msgstr "컨베이어 로더 없음"
+msgstr "운반 적재기 없음"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.TOOLTIP"
@@ -1378,15 +1378,15 @@ msgid ""
 "Enter the Shipping Tab <color=#F44A47>[7]</color> of the Build Menu to build "
 "and connect a Conveyor Loader"
 msgstr ""
-"운송을 위해 이 컨베이어 레일 시스템으로 자재를 공급할 수 없음\n"
+"운송을 위해 이 운반 레일 시스템으로 자재를 공급할 수 없음\n"
 "------------------\n"
-"건설 메뉴의 운송 탭 <color=#F44A47>[7]</color>을 입력하여 컨베이어 로더를 만"
-"들고 연결하십시오"
+"건설 메뉴의 운송 탭 <color=#F44A47>[7]</color>을 입력하여 운반 적재기를 만들"
+"고 연결하십시오"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.NAME"
 msgid "No Conveyor Receptacle"
-msgstr "컨베이어 리셉터클 없음"
+msgstr "운반 용기 없음"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDOUT.TOOLTIP"
@@ -1397,10 +1397,10 @@ msgid ""
 "Enter the Shipping Tab <color=#F44A47>[7]</color> of the Build Menu to build "
 "and connect a Conveyor Receptacle"
 msgstr ""
-"이 컨베이어 시스템에서 재료를 꺼낼 수 없으며 레일을 백업합니다.\n"
+"이 운반 시스템에서 재료를 꺼낼 수 없으며 레일을 백업합니다.\n"
 "------------------\n"
-"건설 메뉴의 운송 탭 <color=#F44A47>[7]</color>을 입력하여 컨베이어 리셉터클"
-"을 구축하고 연결하십시오"
+"건설 메뉴의 운송 탭 <color=#F44A47>[7]</color>을 입력하여 운반 용기을 구축하"
+"고 연결하십시오"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME"
@@ -1618,7 +1618,8 @@ msgid ""
 "Docks must be placed beside an Exosuit Checkpoint, opposite the side its "
 "checkpoint faces"
 msgstr ""
-"도크들은 외복 검사기 옆에 있어야하며, 검사기 방향의 반대편에 있어야 합니다"
+"도크들은 외부슈트 검사기 옆에 있어야하며, 검사기 방향의 반대편에 있어야 합니"
+"다"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTENOUGHPOWER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTENOUGHPOWER.NAME"
@@ -1749,7 +1750,7 @@ msgstr "이 시설은 손상을 입었고 냉각되지 않으면 붕괴될 것�
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME"
 msgid "Deconstruction Errand Assigned"
-msgstr "해체 작업 할당됨"
+msgstr "해체 직업 할당됨"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP"
@@ -1759,7 +1760,7 @@ msgstr "듀플리칸트가 이 시설을 해체하는 동안 기다리는 중"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME"
 msgid "Fishing Errand Assigned"
-msgstr "낚시질 작업 할당됨"
+msgstr "낚시질 직업 할당됨"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.TOOLTIP"
@@ -1769,7 +1770,7 @@ msgstr "듀플리칸트가 낚시질하길 기다리는 중"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.NAME"
 msgid "Harvest Errand Assigned"
-msgstr "수확 작업 할당됨"
+msgstr "수확 직업 할당됨"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.TOOLTIP"
@@ -1779,7 +1780,7 @@ msgstr "듀플리칸트가 수확하길 기다리는 중"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.NAME"
 msgid "Repair Errand Assigned"
-msgstr "수리 작업 할당됨"
+msgstr "수리 직업 할당됨"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGREPAIR.TOOLTIP"
@@ -1803,7 +1804,7 @@ msgstr "듀플리칸트가 설정 변경을 기다리는 중"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME"
 msgid "Uproot Errand Assigned"
-msgstr "파내기 작업 할당됨"
+msgstr "파내기 직업 할당됨"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
@@ -1813,7 +1814,7 @@ msgstr "듀플리칸트가 파내기를 기다리는 중"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME"
 msgid "Errand Assigned"
-msgstr "작업 할당됨"
+msgstr "직업 할당됨"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.TOOLTIP"
@@ -1947,7 +1948,7 @@ msgstr "이 장소에서 개발한 것이 {Tech}에 투자 될 것입니다"
 #. STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.NAME"
 msgid "Conveyor Rail Backup"
-msgstr "컨베이어 레일 백업"
+msgstr "운반 레일 백업"
 
 #. STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLIDPIPEOBSTRUCTED.TOOLTIP"
@@ -1956,10 +1957,9 @@ msgid ""
 "------------------\n"
 "Remove material from the Conveyor Receptacle to free space for more objects"
 msgstr ""
-"이 컨베이어 레일은 더 이상 자재를 운반할 수 없습니다.\n"
+"이 운반 레일은 더 이상 자재를 운반할 수 없습니다.\n"
 "------------------\n"
-"컨베이어 리셉터클에서 더 많은 물체를 위한 공간을 확보할 수 있는 재료를 제거합"
-"니다"
+"운반 용기에서 더 많은 물체를 위한 공간을 확보할 수 있는 재료를 제거합니다"
 
 #. STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.STORAGELOCKER.NAME"
@@ -1990,12 +1990,12 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.NAME"
 msgid "Current Status: Charging Suit"
-msgstr "현재 상태: 외복 충전중"
+msgstr "현재 상태: 외부슈트 충전중"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.CHARGING.TOOLTIP"
 msgid "This Exosuit is docked and charging"
-msgstr "이 외복은 도킹되어 충전됨"
+msgstr "이 외부슈트은 도킹되어 충전됨"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.NAME"
@@ -2005,7 +2005,7 @@ msgstr "현재 상태: 충전 완료"
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.FULLY_CHARGED.TOOLTIP"
 msgid "This Exosuit is fully charged and ready for use"
-msgstr "외복은 완전히 충전되었으며 사용 준비가되어 있습니다"
+msgstr "외부슈트은 완전히 충전되었으며 사용 준비가되어 있습니다"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NEED_CONFIGURATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NEED_CONFIGURATION.NAME"
@@ -2015,7 +2015,7 @@ msgstr "현재 상태: 구성이 필요함"
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NEED_CONFIGURATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NEED_CONFIGURATION.TOOLTIP"
 msgid "Set this Dock to store an Exosuit or remain on Standby"
-msgstr "이 도크를 외복을 저장하도록 설정하거나 대기 상태로 유지합니다"
+msgstr "이 도크를 외부슈트을 저장하도록 설정하거나 대기 상태로 유지합니다"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.NAME"
@@ -2025,7 +2025,8 @@ msgstr "현재 상태: 산소 없음"
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NO_OXYGEN.TOOLTIP"
 msgid "This Dock is not receiving enough oxygen to refill an Exosuit"
-msgstr "이 도크는 외복을 다시 채우기에 충분한 산소를 제공받지 못하고 있습니다"
+msgstr ""
+"이 도크는 외부슈트을 다시 채우기에 충분한 산소를 제공받지 못하고 있습니다"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.NAME"
@@ -2035,7 +2036,7 @@ msgstr "현재 상태: 오프라인"
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.NOT_OPERATIONAL.TOOLTIP"
 msgid "This Exosuit Dock requires power"
-msgstr "이 외복 도크에는 전원이 필요합니다"
+msgstr "이 외부슈트 도크에는 전원이 필요합니다"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.NAME"
@@ -2045,7 +2046,7 @@ msgstr "현재 상태: 대기 중"
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.READY.TOOLTIP"
 msgid "This Dock is functional and ready to receive an Exosuit"
-msgstr "이 도크는 가동되고 있으며 외복을 받을 준비가 되어 있습니다"
+msgstr "이 도크는 가동되고 있으며 외부슈트을 받을 준비가 되어 있습니다"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.NAME"
@@ -2055,7 +2056,7 @@ msgstr "현재 상태: 운반을 기다리는 중"
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER.SUIT_REQUESTED.TOOLTIP"
 msgid "Waiting for a Duplicant to deliver an Exosuit"
-msgstr "듀플리칸트가 외복을 운반하기를 기다리는 중"
+msgstr "듀플리칸트가 외부슈트을 운반하기를 기다리는 중"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER_NEEDS_CONFIGURATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER_NEEDS_CONFIGURATION.NAME"
@@ -2065,7 +2066,7 @@ msgstr "구성하지 않음"
 #. STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER_NEEDS_CONFIGURATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUIT_LOCKER_NEEDS_CONFIGURATION.TOOLTIP"
 msgid "Exosuit Dock settings not configured"
-msgstr "외복 도크 설정이 구성되지 않았음"
+msgstr "외부슈트 도크 설정이 구성되지 않았음"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALANYTIME.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALANYTIME.NAME"
@@ -2082,8 +2083,8 @@ msgid ""
 msgstr ""
 "슈트를 보관할 공간이 없어도 슈트를 입은 듀플리칸트들은 통과할 수 있습니다.\n"
 "------------------\n"
-"외복 도크들이 모두 가득 찼다면, 듀플리칸트들은 그들의 슈트들을 벗고, 바닥에 "
-"떨어뜨려 놓을 것입니다"
+"외부슈트 도크들이 모두 가득 찼다면, 듀플리칸트들은 그들의 슈트들을 벗고, 바닥"
+"에 떨어뜨려 놓을 것입니다"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.NAME
 msgctxt ""
@@ -2098,8 +2099,8 @@ msgid ""
 "Suited Duplicants may pass only if there is room in an Exosuit Dock to store "
 "their suit"
 msgstr ""
-"슈트를 입은 듀플리칸트들은 외복 도크에 슈트를 보관할 공간이 있는 경우에만 통"
-"과할 수 있습니다"
+"슈트를 입은 듀플리칸트들은 외부슈트 도크에 슈트를 보관할 공간이 있는 경우에"
+"만 통과할 수 있습니다"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERWRONGSIDE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERWRONGSIDE.NAME"
@@ -2114,9 +2115,10 @@ msgid ""
 "Exosuit Docks must be placed beside a Checkpoint, opposite the side its "
 "checkpoint faces"
 msgstr ""
-"이 시설은 외복 검사기이 잘못된 방향으로 건설되었습니다\n"
+"이 시설은 외부슈트 검사기이 잘못된 방향으로 건설되었습니다\n"
 "\n"
-"외복 도크들은 검사기 옆에 있어야하며, 검사기 방향의 반대편에 있어야 합니다"
+"외부슈트 도크들은 검사기 옆에 있어야하며, 검사기 방향의 반대편에 있어야 합니"
+"다"
 
 #. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.NAME"
@@ -2297,7 +2299,7 @@ msgstr "이 시설은 현재 건설 중입니다"
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME"
 msgid "Construction Errand Assigned"
-msgstr "공사 작업 지정됨"
+msgstr "공사 직업 지정됨"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.TOOLTIP"
@@ -3661,7 +3663,7 @@ msgstr "<link=\"FLUSHTOILET\">화장실</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.DESC"
 msgid ""
 "Gas pipes are used to connect the inputs and outputs of ventilated buildings."
-msgstr "기체관은 통기성 시설의 유입과 배출에 연결하는 데 사용됩니다."
+msgstr "가스관은 통기성 시설의 유입과 배출에 연결하는 데 사용됩니다."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.EFFECT
 #, fuzzy
@@ -3702,7 +3704,7 @@ msgid ""
 "\n"
 "Can be run through tiles."
 msgstr ""
-"<link=\"GASPIPING\">기체관</link>의 부분을 다른 부분에 합치지 않으면서 지나"
+"<link=\"GASPIPING\">가스관</link>의 부분을 다른 부분에 합치지 않으면서 지나"
 "갈 수 있게 합니다.\n"
 "\n"
 "타일 내부에 설치할 수 있습니다."
@@ -3710,7 +3712,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME"
 msgid "<link=\"GASCONDUITBRIDGE\">Gas Bridge</link>"
-msgstr "<link=\"GASCONDUITBRIDGE\">기체관브리지</link>"
+msgstr "<link=\"GASCONDUITBRIDGE\">가스관 가교</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC"
@@ -3800,7 +3802,7 @@ msgid ""
 "\n"
 "Must be immersed in gas."
 msgstr ""
-"소량의 <link=\"ELEMENTSGAS\">기체</link>를 흡입하여 <link=\"GASPIPING\">기체"
+"소량의 <link=\"ELEMENTSGAS\">기체</link>를 흡입하여 <link=\"GASPIPING\">가스"
 "관</link>로 보냅니다.\n"
 "\n"
 "기체에 잠겨 있어야 합니다."
@@ -3868,7 +3870,7 @@ msgid ""
 "\n"
 "Must be immersed in gas."
 msgstr ""
-"<link=\"ELEMENTSGAS\">기체</link>를 흡입하여 <link=\"GASPIPING\">기체관</"
+"<link=\"ELEMENTSGAS\">기체</link>를 흡입하여 <link=\"GASPIPING\">가스관</"
 "link>으로 보냅니다.\n"
 "\n"
 "기체에 잠겨 있어야 합니다."
@@ -3920,7 +3922,7 @@ msgid ""
 "Releases <link=\"ELEMENTSGAS\">Gas</link> from <link=\"GASPIPING\">Gas "
 "Pipes</link>."
 msgstr ""
-"<link=\"GASPIPING\">기체관</link>에서 <link=\"ELEMENTSGAS\">기체</link>를 배"
+"<link=\"GASPIPING\">가스관</link>에서 <link=\"ELEMENTSGAS\">기체</link>를 배"
 "출합니다."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.NAME
@@ -3946,7 +3948,7 @@ msgid ""
 "Releases <link=\"ELEMENTSGAS\">Gas</link> from <link=\"GASPIPING\">Gas "
 "Pipes</link> into high pressure locations."
 msgstr ""
-"<link=\"GASPIPING\">기체관</link>에서 고압 위치로 <link=\"ELEMENTSGAS\">기체"
+"<link=\"GASPIPING\">가스관</link>에서 고압 위치로 <link=\"ELEMENTSGAS\">기체"
 "</link>를 배출합니다."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.NAME
@@ -4207,7 +4209,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.NAME"
 msgid "<link=\"INSULATEDGASCONDUIT\">Insulated Gas Pipe</link>"
-msgstr "<link=\"INSULATEDGASCONDUIT\">단열 기체관</link>"
+msgstr "<link=\"INSULATEDGASCONDUIT\">단열 가스관</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.DESC"
@@ -4363,7 +4365,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDITIONER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDITIONER.NAME"
 msgid "<link=\"LIQUIDCONDITIONER\">Thermo Aquatuner</link>"
-msgstr "<link=\"LIQUIDCONDITIONER\">열액체조화기</link>"
+msgstr "<link=\"LIQUIDCONDITIONER\">액체 냉각기</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.DESC"
@@ -4418,7 +4420,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME"
 msgid "<link=\"LIQUIDCONDUITBRIDGE\">Liquid Bridge</link>"
-msgstr "<link=\"LIQUIDCONDUITBRIDGE\">액체관브리지</link>"
+msgstr "<link=\"LIQUIDCONDUITBRIDGE\">액체관 가교</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC"
@@ -5111,8 +5113,8 @@ msgid ""
 "Wire bridges allow multiple automation grids to exist in a small area "
 "without connecting."
 msgstr ""
-"전선 브리지는 연결 없이 작은 영역에 다수의 자동화 전력망이 존재할 수 있게 합"
-"니다."
+"전선  가교는 연결 없이 작은 영역에 다수의 자동화 전력망이 존재할 수 있게 합니"
+"다."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICWIREBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICWIREBRIDGE.EFFECT"
@@ -5128,7 +5130,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LOGICWIREBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICWIREBRIDGE.NAME"
 msgid "<link=\"LOGICWIREBRIDGE\">Automation Wire Bridge</link>"
-msgstr "<link=\"LOGICWIREBRIDGE\">자동화 전선 브리지</link>"
+msgstr "<link=\"LOGICWIREBRIDGE\">자동화 전선  가교</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LUXURYBED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.DESC"
@@ -5186,7 +5188,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MACHINESHOP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MACHINESHOP.NAME"
 msgid "<link=\"MACHINESHOP\">Mechanics Station</link>"
-msgstr "<link=\"MACHINESHOP\">정비공 작업대</link>"
+msgstr "<link=\"MACHINESHOP\">정비공소</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC"
@@ -5481,7 +5483,7 @@ msgid ""
 "Food from a musher will keep Duplicants alive, but may cause stress and "
 "disease over time."
 msgstr ""
-"걸죽기의 음식은 듀플리칸트들을 살아있게 하지만, 시간이 지남에 스트레스와 질병"
+"곤죽기의 음식은 듀플리칸트들을 살아있게 하지만, 시간이 지남에 스트레스와 질병"
 "을 일으킬 수 있습니다."
 
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.EFFECT
@@ -5498,7 +5500,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME"
 msgid "<link=\"MICROBEMUSHER\">Microbe Musher</link>"
-msgstr "<link=\"MICROBEMUSHER\">미동물반죽기</link>"
+msgstr "<link=\"MICROBEMUSHER\">미생물 곤죽기</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC
 #, fuzzy
@@ -5616,7 +5618,7 @@ msgid ""
 msgstr ""
 "듀플리칸트에게 볼일 볼 공간을 줍니다.\n"
 "\n"
-"<link=\"GASPIPING\">기체관</link>은 필요 없음.\n"
+"<link=\"GASPIPING\">가스관</link>은 필요 없음.\n"
 "\n"
 "정기적으로 <link=\"TOXICSAND\">오염된 흙</link>을 비워줘야 함."
 
@@ -5745,7 +5747,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.POLYMERIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POLYMERIZER.NAME"
 msgid "<link=\"POLYMERIZER\">Polymer Press</link>"
-msgstr "<link=\"POLYMERIZER\">고분자프레스</link>"
+msgstr "<link=\"POLYMERIZER\">고분자 압착기</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.DESC"
@@ -5784,7 +5786,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POWERCONTROLSTATION.NAME"
 msgid "<link=\"POWERCONTROLSTATION\">Power Control Station</link>"
-msgstr "<link=\"POWERCONTROLSTATION\">전력 제어 작업대</link>"
+msgstr "<link=\"POWERCONTROLSTATION\">전력 제어소</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.POWERTRANSFORMER.DESC"
@@ -5931,7 +5933,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.RANCHSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RANCHSTATION.NAME"
 msgid "<link=\"RANCHSTATION\">Grooming Station</link>"
-msgstr "<link=\"RANCHSTATION\">미용실</link>"
+msgstr "<link=\"RANCHSTATION\">애완 동물 미용실</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC"
@@ -6003,7 +6005,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME"
 msgid "<link=\"RESEARCHCENTER\">Research Station</link>"
-msgstr "<link=\"RESEARCHCENTER\">연구실</link>"
+msgstr "<link=\"RESEARCHCENTER\">연구소</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.DESC"
@@ -6056,7 +6058,7 @@ msgid ""
 "\n"
 "Unlocks <link=\"JOBS\">Hats</link>."
 msgstr ""
-"듀플리칸트들이 특수화된 <link=\"JOBS\">작업들</link>에 할당되도록 합니다.\n"
+"듀플리칸트들이 특수화된 <link=\"JOBS\">직업들</link>에 할당되도록 합니다.\n"
 "\n"
 "<link=\"JOBS\">모자들</link>의 잠금을 해제합니다."
 
@@ -6143,15 +6145,15 @@ msgid ""
 "\n"
 "Can be run through tiles."
 msgstr ""
-"<link=\"SOLIDCONDUITINBOX\">컨베이어 로더</link>와 <link=\"SOLIDCONDUITOUTBOX"
-"\">컨베이어 리셉터클</link> 사이의 트랙에 <link=\"ELEMENTSSOLID\">고체 재료들"
-"</link>을 전송합니다.\n"
+"<link=\"SOLIDCONDUITINBOX\">운반 적재기</link>와 <link=\"SOLIDCONDUITOUTBOX"
+"\">운반 용기</link> 사이의 트랙에 <link=\"ELEMENTSSOLID\">고체 재료들</link>"
+"을 전송합니다.\n"
 "타일 내부에 설치할 수 있습니다."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.NAME"
 msgid "<link=\"SOLIDCONDUIT\">Conveyor Rail</link>"
-msgstr "<link=\"SOLIDCONDUIT\">컨베이어 레일</link>"
+msgstr "<link=\"SOLIDCONDUIT\">운반 레일</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.DESC"
@@ -6170,15 +6172,15 @@ msgid ""
 "\n"
 "Can be run through tiles."
 msgstr ""
-"결합하지 않고 하나의 <link=\"SOLIDCONDUIT\">컨베이어 레일</link> 영역을 실행"
-"합니다.\n"
+"결합하지 않고 하나의 <link=\"SOLIDCONDUIT\">운반 레일</link> 영역을 실행합니"
+"다.\n"
 "\n"
 "타일을 통해 운반될 수 있습니다."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.NAME"
 msgid "<link=\"SOLIDCONDUITBRIDGE\">Conveyor Bridge</link>"
-msgstr "<link=\"SOLIDCONDUITBRIDGE\">컨베이버 브리지</link>"
+msgstr "<link=\"SOLIDCONDUITBRIDGE\">컨베이버  가교</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.DESC"
@@ -6186,8 +6188,8 @@ msgid ""
 "The filters on a loader can be used to determine what materials should be "
 "sent down the rail."
 msgstr ""
-"로더의 필터를 사용하여 어떤 재료를 레일 아래로 보내야하는지 결정할 수 있습니"
-"다."
+"적재기의 필터를 사용하여 어떤 재료를 레일 아래로 보내야하는지 결정할 수 있습"
+"니다."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.EFFECT"
@@ -6197,15 +6199,15 @@ msgid ""
 "\n"
 "Only loads the resources of your choosing."
 msgstr ""
-"운송을 위해 <link=\"SOLIDCONDUIT\">컨베이어 레일</link>에 <link="
-"\"ELEMENTSSOLID\">고체 재료들</link>을 로드합니다.\n"
+"운송을 위해 <link=\"SOLIDCONDUIT\">운반 레일</link>에 <link=\"ELEMENTSSOLID"
+"\">고체 재료들</link>을 적재합니다.\n"
 "\n"
-"선택한 리소스만 로드 합니다."
+"선택한 리소스만 적재 합니다."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITINBOX.NAME"
 msgid "<link=\"SOLIDCONDUITINBOX\">Conveyor Loader</link>"
-msgstr "<link=\"SOLIDCONDUITINBOX\">컨베이어 로더</link>"
+msgstr "<link=\"SOLIDCONDUITINBOX\">운반 적재기</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.DESC"
@@ -6213,8 +6215,8 @@ msgid ""
 "When materials reach the end of a rail they enter a receptacle to be used by "
 "Duplicants."
 msgstr ""
-"재료가 레일 끝까지 도달하면 그들은 듀플리칸트들에 의해 사용될 리셉터클을 입력"
-"합니다."
+"재료가 레일 끝까지 도달하면 그들은 듀플리칸트들에 의해 사용될 용기을 입력합니"
+"다."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.EFFECT"
@@ -6222,13 +6224,13 @@ msgid ""
 "Unloads <link=\"ELEMENTSSOLID\">Solid Materials</link> from a <link="
 "\"SOLIDCONDUIT\">Conveyor Rail</link> into storage."
 msgstr ""
-"<link=\"SOLIDCONDUIT\">컨베이어 레일</link>에서 저장소로 <link="
-"\"ELEMENTSSOLID\">고체 재료들</link>을 언로드합니다."
+"<link=\"SOLIDCONDUIT\">운반 레일</link>에서 저장소로 <link=\"ELEMENTSSOLID\">"
+"고체 재료들</link>을 내립니다."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITOUTBOX.NAME"
 msgid "<link=\"SOLIDCONDUITOUTBOX\">Conveyor Receptacle</link>"
-msgstr "<link=\"SOLIDCONDUITOUTBOX\">컨베이어 리셉터클</link>"
+msgstr "<link=\"SOLIDCONDUITOUTBOX\">운반 용기</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.DESC"
@@ -6248,11 +6250,11 @@ msgid ""
 "link>, storage, or buildings within range."
 msgstr ""
 "근처의 모든 <link=\"DECOR\">잔해</link>를 빨아 냄으로써 <link=\"CHORES\">청소"
-"</link> 및 <link=\"CHORES\">공급</link> 작업을 자동화합니다.\n"
+"</link> 및 <link=\"CHORES\">공급</link> 직업을 자동화합니다.\n"
 "\n"
-"자재는 범위 내의 모든 <link=\"SOLIDCONDUITINBOX\">컨베이어 로더</link>, "
-"<link=\"SOLIDCONDUITOUTBOX\">컨베이어 리셉터클</link>, 보관 장소 또는 시설로 "
-"자동 전달됩니다."
+"자재는 범위 내의 모든 <link=\"SOLIDCONDUITINBOX\">운반 적재기</link>, <link="
+"\"SOLIDCONDUITOUTBOX\">운반 용기</link>, 보관 장소 또는 시설로 자동 전달됩니"
+"다."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.NAME"
@@ -6348,8 +6350,8 @@ msgid ""
 "Exosuits can be filled with oxygen to allow Duplicants to safely enter "
 "uninhabitable areas."
 msgstr ""
-"외복은 듀플리칸트가 거주할 수 없는 지역에 안전하게 들어갈 수 있도록 산소로 채"
-"워져 있습니다."
+"외부슈트은 듀플리칸트가 거주할 수 없는 지역에 안전하게 들어갈 수 있도록 산소"
+"로 채워져 있습니다."
 
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.EFFECT"
@@ -6365,7 +6367,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.NAME"
 msgid "<link=\"SUITFABRICATOR\">Exosuit Forge</link>"
-msgstr "<link=\"SUITFABRICATOR\">외복 제작대</link>"
+msgstr "<link=\"SUITFABRICATOR\">외부슈트 제작대</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SUITLOCKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITLOCKER.DESC"
@@ -6373,8 +6375,8 @@ msgid ""
 "Docks can refill exosuits with air or empty them of waste, but can only "
 "charge one suit at a time."
 msgstr ""
-"도크는 외복에 공기를 다시 채우거나 폐기물을 비울 수 있지만, 한 번에 한 벌만 "
-"충전할 수 있습니다."
+"도크는 외부슈트에 공기를 다시 채우거나 폐기물을 비울 수 있지만, 한 번에 한 벌"
+"만 충전할 수 있습니다."
 
 #. STRINGS.BUILDINGS.PREFABS.SUITLOCKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITLOCKER.EFFECT"
@@ -6386,19 +6388,19 @@ msgid ""
 msgstr ""
 "공기 슈트를 저장하고 재충전합니다.\n"
 "\n"
-"듀플리칸트들이 지나갈 때 입을 수 있도록 외복 검사기 옆에 건설합니다."
+"듀플리칸트들이 지나갈 때 입을 수 있도록 외부슈트 검사기 옆에 건설합니다."
 
 #. STRINGS.BUILDINGS.PREFABS.SUITLOCKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITLOCKER.NAME"
 msgid "<link=\"SUITLOCKER\">Exosuit Dock</link>"
-msgstr "<link=\"SUITLOCKER\">외복 도크</link>"
+msgstr "<link=\"SUITLOCKER\">외부슈트 도크</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SUITMARKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITMARKER.DESC"
 msgid ""
 "A checkpoint must have an exosuit dock built on the opposite side its arrow "
 "faces."
-msgstr "검사기은 화살표 반대 방향에 외복 도크가 건설되어 있어야 합니다."
+msgstr "검사기은 화살표 반대 방향에 외부슈트 도크가 건설되어 있어야 합니다."
 
 #. STRINGS.BUILDINGS.PREFABS.SUITMARKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITMARKER.EFFECT"
@@ -6411,14 +6413,14 @@ msgid ""
 msgstr ""
 "듀플리칸트들은 공기 슈트 안이나 밖에서 변경해야하는 한계수치을 표시합니다.\n"
 "\n"
-"외복 도크 옆에 건설해야 합니다.\n"
+"외부슈트 도크 옆에 건설해야 합니다.\n"
 "\n"
 "시공 전에 회전할 수 있습니다."
 
 #. STRINGS.BUILDINGS.PREFABS.SUITMARKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITMARKER.NAME"
 msgid "<link=\"SUITMARKER\">Exosuit Checkpoint</link>"
-msgstr "<link=\"SUITMARKER\">외복 검사지점</link>"
+msgstr "<link=\"SUITMARKER\">외부슈트 검사지점</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.DESC"
@@ -6518,7 +6520,7 @@ msgstr "<link=\"THERMALBLOCK\">열전도 판</link>"
 #. STRINGS.BUILDINGS.PREFABS.TILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.DESC"
 msgid "Tiles can be used to build rooms, floors, or bridges to new areas."
-msgstr "타일은 방, 바닥 또는 새로운 영역을 잇는 브리지로 사용할 수 있습니다."
+msgstr "타일은 방, 바닥 또는 새로운 영역을 잇는  가교로 사용할 수 있습니다."
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.EFFECT"
@@ -6751,7 +6753,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGE.NAME"
 msgid "<link=\"WIREBRIDGE\">Wire Bridge</link>"
-msgstr "<link=\"WIREBRIDGE\">전선 브리지</link>"
+msgstr "<link=\"WIREBRIDGE\">전선  가교</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREBRIDGEHIGHWATTAGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREBRIDGEHIGHWATTAGE.DESC"
@@ -6817,7 +6819,7 @@ msgid ""
 "\n"
 "Can be run through tiles."
 msgstr ""
-"과부하 없이 일반적인 전선 브리지보다 더 많은 <link=\"POWER\">소비 전력</link>"
+"과부하 없이 일반적인 전선  가교보다 더 많은 <link=\"POWER\">소비 전력</link>"
 "을 운반합니다.\n"
 "\n"
 "전선 영역에 가입하지 않고 다른 전선 영역 위에서 배선 영역을 실행합니다.\n"
@@ -6827,7 +6829,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.NAME"
 msgid "<link=\"WIREREFINEDBRIDGE\">Conductive Wire Bridge</link>"
-msgstr "<link=\"WIREREFINEDBRIDGE\">전도성 전선 브리지</link>"
+msgstr "<link=\"WIREREFINEDBRIDGE\">전도성 전선  가교</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGEHIGHWATTAGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGEHIGHWATTAGE.DESC"
@@ -8859,7 +8861,7 @@ msgstr "소비"
 #. STRINGS.CREATURES.STATS.FERTILIZATION.NAME
 msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.NAME"
 msgid "Fertilization"
-msgstr "비옥화"
+msgstr "거름주기"
 
 #. STRINGS.CREATURES.STATS.HAPPINESS.NAME
 msgctxt "STRINGS.CREATURES.STATS.HAPPINESS.NAME"
@@ -9122,7 +9124,7 @@ msgstr "이 동물은 숨으려고 합니다"
 #. STRINGS.CREATURES.STATUSITEMS.CANTACCEPTFERTILIZER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CANTACCEPTFERTILIZER.NAME"
 msgid "    • Fertilization"
-msgstr "    • 비옥화"
+msgstr "    • 거름주기"
 
 #. STRINGS.CREATURES.STATUSITEMS.CANTACCEPTFERTILIZER.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CANTACCEPTFERTILIZER.TOOLTIP"
@@ -9133,7 +9135,7 @@ msgid ""
 msgstr ""
 "이 재배 구획은 비료를 받지 못합니다\n"
 "\n"
-"최적의 성장을 위해 선택한 식물을 비옥화가 가능한 구획으로 옮기세요"
+"최적의 성장을 위해 선택한 식물을 거름주기가 가능한 구획으로 옮기세요"
 
 #. STRINGS.CREATURES.STATUSITEMS.CANTACCEPTIRRIGATION.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CANTACCEPTIRRIGATION.NAME"
@@ -9658,12 +9660,12 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME"
 msgid "    • Fertilization"
-msgstr "    • 비옥화"
+msgstr "    • 거름주기"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.TOOLTIP"
 msgid "Growth will resume when fertilization requirements are met"
-msgstr "비옥화 조건이 충족되면 성장이 다시 시작됩니다"
+msgstr "거름주기 조건이 충족되면 성장이 다시 시작됩니다"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.LINE_ITEM"
@@ -9986,7 +9988,7 @@ msgstr "            • {0}: {1}\n"
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.NAME"
 msgid "    • Fertilization"
-msgstr "    • 비옥화"
+msgstr "    • 거름주기"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.TOOLTIP"
@@ -10007,7 +10009,7 @@ msgstr "                    • {0}: {1}\n"
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.NAME"
 msgid "    • Fertilization"
-msgstr "    • 비옥화"
+msgstr "    • 거름주기"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.TOOLTIP"
@@ -10028,7 +10030,7 @@ msgstr "            • {0}: {1}\n"
 #. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.NAME"
 msgid "    • Fertilization"
-msgstr "    • 비옥화"
+msgstr "    • 거름주기"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.TOOLTIP"
@@ -10190,7 +10192,7 @@ msgid ""
 "Determines medical skill and how well a Duplicant works with peers and "
 "critters."
 msgstr ""
-"듀플리칸트들의 의료 기술 그리고 동료 및 동물들과 얼마나 잘 작업하는지 능력을 "
+"듀플리칸트들의 의료 기술 그리고 동료 및 동물들과 얼마나 잘 직업하는지 능력을 "
 "결정합니다."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CARING.FABRICATE_SPEEDMODIFIER
@@ -10642,7 +10644,7 @@ msgid ""
 "Determines a Duplicant's carrying capacity, and how much elbow grease they "
 "can put into cleaning errands."
 msgstr ""
-"듀플리칸트의 운반 능력과 청소 작업에 사용할 수 있는 팔의 힘으로 하는 일의 양"
+"듀플리칸트의 운반 능력과 청소 직업에 사용할 수 있는 팔의 힘으로 하는 일의 양"
 "을 결정합니다."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME
@@ -11315,12 +11317,12 @@ msgstr "이 듀플리칸트는 장비 조각을 붙이고 있습니다"
 #. STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.NAME"
 msgid "Equip Exosuit"
-msgstr "외복 장착"
+msgstr "외부슈트 장착"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.STATUS"
 msgid "Equipping exosuit"
-msgstr "외복 장착중"
+msgstr "외부슈트 장착중"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.TOOLTIP"
@@ -11495,7 +11497,7 @@ msgstr "유휴 상태"
 #. STRINGS.DUPLICANTS.CHORES.IDLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.IDLE.TOOLTIP"
 msgid "This Duplicant cannot reach any pending errands"
-msgstr "이 듀플리칸트는 대기중인 작업에 도달 할 수 없습니다"
+msgstr "이 듀플리칸트는 대기중인 직업에 도달 할 수 없습니다"
 
 #. STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.NAME"
@@ -11704,7 +11706,7 @@ msgstr "현재 필요 없음"
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HEADER
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.HEADER"
 msgid "The selected {Selected} could:"
-msgstr "선택한 {Selected}이(가) 수행할 수 있는 작업 :"
+msgstr "선택한 {Selected}이(가) 수행할 수 있는 직업 :"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ALLOWED_BY_AUTOMATION"
@@ -11837,7 +11839,7 @@ msgstr "선호되지 않는 할당"
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ROLE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_ROLE"
 msgid "Incorrect job assignment"
-msgstr "잘못된 작업 할당"
+msgstr "잘못된 직업 할당"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_SCHEDULED_TIME
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_SCHEDULED_TIME"
@@ -12014,17 +12016,17 @@ msgstr "이 듀플리칸트는 기분이 좋지 않아 휴식을 취하고 있�
 #. STRINGS.DUPLICANTS.CHORES.RETURNSUIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RETURNSUIT.NAME"
 msgid "Dock Exosuit"
-msgstr "외복 도크"
+msgstr "외부슈트 도크"
 
 #. STRINGS.DUPLICANTS.CHORES.RETURNSUIT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RETURNSUIT.STATUS"
 msgid "Docking exosuit"
-msgstr "외복 도킹"
+msgstr "외부슈트 도킹"
 
 #. STRINGS.DUPLICANTS.CHORES.RETURNSUIT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.RETURNSUIT.TOOLTIP"
 msgid "This Duplicant is plugging an exosuit in for refilling"
-msgstr "이 듀플리칸트는 안으로 채우기 위해 외복을 연결했습니다"
+msgstr "이 듀플리칸트는 안으로 채우기 위해 외부슈트을 연결했습니다"
 
 #. STRINGS.DUPLICANTS.CHORES.SCRUBORE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SCRUBORE.NAME"
@@ -12135,12 +12137,12 @@ msgstr "어떤 사람들은 다른 사람들보다 스트레스를 더 잘 처�
 #. STRINGS.DUPLICANTS.CHORES.SWITCHROLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SWITCHROLE.NAME"
 msgid "Start Job"
-msgstr "작업 시작"
+msgstr "직업 시작"
 
 #. STRINGS.DUPLICANTS.CHORES.SWITCHROLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SWITCHROLE.STATUS"
 msgid "Starting job assignment"
-msgstr "작업 할당 시작"
+msgstr "직업 할당 시작"
 
 #. STRINGS.DUPLICANTS.CHORES.SWITCHROLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.SWITCHROLE.TOOLTIP"
@@ -13756,7 +13758,7 @@ msgstr "보통 상처"
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.TOOLTIP"
 msgid ""
 "This Duplicant sustained injuries that are affecting their ability to work"
-msgstr "이 듀플리칸트는 작업 능력에 지장을 줄 만큼 다쳤습니다"
+msgstr "이 듀플리칸트는 직업 능력에 지장을 줄 만큼 다쳤습니다"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MODIFIER_FORMAT
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MODIFIER_FORMAT"
@@ -15280,8 +15282,7 @@ msgid ""
 "This job provides additional training in the construction and\n"
 "maintenance of conveyor rail systems."
 msgstr ""
-"이 직업은 컨베이어 레일 시스템의 건설 및 유지 보수에 대한 추가 교육을 제공합"
-"니다."
+"이 직업은 운반 레일 시스템의 건설 및 유지 보수에 대한 추가 교육을 제공합니다."
 
 #. STRINGS.DUPLICANTS.ROLES.MECHATRONIC_ENGINEER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.MECHATRONIC_ENGINEER.NAME"
@@ -15451,13 +15452,13 @@ msgid ""
 "This job provides additional training in correct use of Exosuits,\n"
 "eliminating the runspeed loss experienced while wearing them."
 msgstr ""
-"이 직업은 외복의 올바른 사용에 대한 추가 교육을 제공하며,\n"
+"이 직업은 외부슈트의 올바른 사용에 대한 추가 교육을 제공하며,\n"
 "이를 착용하면서 경험 한 런 스피드 손실을 제거합니다."
 
 #. STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SUIT_EXPERT.NAME"
 msgid "<link=\"SUITEXPERT\">Exosuit Engineer</link>"
-msgstr "<link=\"SUITEXPERT\">외복 기술자</link>"
+msgstr "<link=\"SUITEXPERT\">외부슈트 기술자</link>"
 
 #. STRINGS.DUPLICANTS.STATS.BLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.BLADDER.NAME"
@@ -16250,12 +16251,12 @@ msgstr "유휴 상태"
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants cannot reach any pending errands:"
-msgstr "이 듀플리칸트들은 대기중인 어떤 작업에도 도달할 수 없음:"
+msgstr "이 듀플리칸트들은 대기중인 어떤 직업에도 도달할 수 없음:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.TOOLTIP"
 msgid "This Duplicant cannot reach any pending errands"
-msgstr "이 듀플리칸트는 대기중인 어떤 작업에도 도달할 수 없습니다"
+msgstr "이 듀플리칸트는 대기중인 어떤 직업에도 도달할 수 없습니다"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.INCAPACITATED.NAME"
@@ -16388,7 +16389,7 @@ msgstr "공기 슈트 영역 나가는 중"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.TOOLTIP"
 msgid "This Duplicant is leaving an area where an exosuit was required"
-msgstr "이 듀플리칸트는 외복 필요 구역을 떠나는 중입니다"
+msgstr "이 듀플리칸트는 외부슈트 필요 구역을 떠나는 중입니다"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.NAME"
@@ -16523,7 +16524,7 @@ msgid ""
 msgstr ""
 "이 듀플리칸트는 할당된 직무가 없습니다\n"
 "------------------\n"
-"사용 가능한 작업을 보려면 작업 패널 <color=#F44A47>[L]</color>을 입력하세요"
+"사용 가능한 직업을 보려면 직업 패널 <color=#F44A47>[L]</color>을 입력하세요"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NAME"
@@ -16994,7 +16995,7 @@ msgctxt ""
 "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.TOOLTIP"
 msgid ""
 "This Duplicant is delivering materials to a {Target} construction errand"
-msgstr "이 듀플리칸트가 {Target} 건설 작업에 자재를 제공하고 있습니다"
+msgstr "이 듀플리칸트가 {Target} 건설 직업에 자재를 제공하고 있습니다"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.NAME"
@@ -17457,7 +17458,7 @@ msgid ""
 "• Cannot perform errand: {0}"
 msgstr ""
 "\n"
-"•작업 수행 불가:{0}"
+"•직업 수행 불가:{0}"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTBUILD.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTBUILD.DESC"
@@ -17795,7 +17796,7 @@ msgid ""
 "• Refuses to do errand: {0}"
 msgstr ""
 "\n"
-"•작업 수행 거부:{0}"
+"•직업 수행 거부:{0}"
 
 #. STRINGS.DUPLICANTS.TRAITS.REGENERATION.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REGENERATION.DESC"
@@ -19065,7 +19066,7 @@ msgstr "이 자원은 완성된 시설의 장식 수치에 {0}을(를) 더해줄
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.EFFECTS_HEADER
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.EFFECTS_HEADER"
 msgid "Buildings constructed from this material will have these properties"
-msgstr "선택한 재질로 만들어진 시설들은 나열된 속성을 물려 받을 것이다"
+msgstr "선택한 재료로 만들어진 시설들은 나열된 속성을 물려 받을 것이다"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.HIGH_SPECIFIC_HEAT_CAPACITY
 msgctxt ""
@@ -20226,7 +20227,7 @@ msgid ""
 msgstr ""
 "수중 환경에서 듀플리칸트에게 <style=\"oxygen\">산소</style>를 공급합니다.\n"
 "\n"
-"고갈됐을 때 외복 재충전기로 산소를 반드시 채워야 합니다."
+"고갈됐을 때 외부슈트 재충전기로 산소를 반드시 채워야 합니다."
 
 #. STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.NAME"
@@ -20257,7 +20258,7 @@ msgstr ""
 "숨쉬기 힘든 환경에서 듀플리칸트에게 <style=\"oxygen\">산소</style>를 공급합니"
 "다.\n"
 "\n"
-"고갈됐을 때 외복 재충전기로 산소를 반드시 채워야 합니다."
+"고갈됐을 때 외부슈트 재충전기로 산소를 반드시 채워야 합니다."
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.GENERICNAME"
@@ -20465,7 +20466,7 @@ msgid ""
 msgstr ""
 "극한 <style=\"heat\">온도</style> 구역을 대비하여 단열기능을 제공합니다.\n"
 "\n"
-"고갈됐을 때 외복 재충전기로 반드시 충전시켜야 합니다."
+"고갈됐을 때 외부슈트 재충전기로 반드시 충전시켜야 합니다."
 
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.NAME"
@@ -20981,7 +20982,7 @@ msgstr "공간 오버레이"
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY12
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY12"
 msgid "Overlay12"
-msgstr "외복 오버레이"
+msgstr "외부슈트 오버레이"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY13
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY13"
@@ -21021,7 +21022,7 @@ msgstr "액체관 오버레이"
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY7
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY7"
 msgid "Overlay7"
-msgstr "기체관 오버레이"
+msgstr "가스관 오버레이"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY8
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY8"
@@ -21310,7 +21311,7 @@ msgstr "무찌른 동물로 요리된 고기."
 #. STRINGS.ITEMS.FOOD.FIELDRATION.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FIELDRATION.DESC"
 msgid "A nourishing nutrient paste, sandwiched between thin wafer layers."
-msgstr "얇은 웨이퍼 층 사이에 넣은 영양가 많은 영양 반죽."
+msgstr "얇은 웨이퍼 층 사이에 넣은 영양가 많은 영양 곤죽."
 
 #. STRINGS.ITEMS.FOOD.FIELDRATION.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FIELDRATION.NAME"
@@ -21446,7 +21447,7 @@ msgid ""
 msgstr ""
 "먹을 수 있는 썩은 진창.\n"
 "\n"
-"걸죽바를 먹는 것이 굶는 것보다는 낫지만, 내키는 음식은 아닙니다."
+"곤죽바를 먹는 것이 굶는 것보다는 낫지만, 내키는 음식은 아닙니다."
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.NAME"
@@ -21462,7 +21463,7 @@ msgid ""
 msgstr ""
 "먹을 수 있는 썩은 진창.\n"
 "\n"
-"걸죽바를 먹는 것이 굶는 것보다는 낫지만, 내키는 음식은 아닙니다."
+"곤죽바를 먹는 것이 굶는 것보다는 낫지만, 내키는 음식은 아닙니다."
 
 #. STRINGS.ITEMS.FOOD.MUSHROOM.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHROOM.DESC"
@@ -22766,11 +22767,11 @@ msgid ""
 "If you are unsure if a errand you've placed is accessible, select a "
 "Duplicant and click SHOW NAVIGATION to view all areas within their reach."
 msgstr ""
-"듀플리칸트들은 명령받은 작업을 수행하기 위해서는 도달할 수 있어야 합니다. 작"
+"듀플리칸트들은 명령받은 직업을 수행하기 위해서는 도달할 수 있어야 합니다. 직"
 "업을 수행할 때, 듀플리칸트는 두개 높이 타일까지 올라갈 수 있으며 그 자체로 "
 "두 개의 타일이 높다는 것을 명심하십시오.\n"
 "\n"
-"명령한 작업에 접근 가능한 지를 확신할 수 없다면, 듀플리칸트를 선택한 후 네비"
+"명령한 직업에 접근 가능한 지를 확신할 수 없다면, 듀플리칸트를 선택한 후 네비"
 "게이션 보기를 클릭하면 모든 영역을 볼 수 있습니다."
 
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME
@@ -23165,7 +23166,8 @@ msgstr "사용 가능한 도크 없음"
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SUIT_DROPPED.TOOLTIP"
 msgid ""
 "An exosuit was dropped because there were no empty Exosuit Docks available"
-msgstr "비어 있는 외복 토크들이 없었기 때문에 외복을 바닥에 벗어던졌습니다"
+msgstr ""
+"비어 있는 외부슈트 토크들이 없었기 때문에 외부슈트을 바닥에 벗어던졌습니다"
 
 #. STRINGS.MISC.NOTIFICATIONS.SUITS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SUITS.MESSAGEBODY"
@@ -23180,24 +23182,24 @@ msgid ""
 "chosen direction, and will unequip their suit when walking back the opposite "
 "way."
 msgstr ""
-"<link=\"EQUIPMENT\">외복들</link>은 듀플리칸트들을 극한의 <link=\"HEAT\">열</"
-"link>, 공기 중 <link=\"DISEASE\">세균들</link> 및 숨 막히는 <link="
+"<link=\"EQUIPMENT\">외부슈트들</link>은 듀플리칸트들을 극한의 <link=\"HEAT\">"
+"열</link>, 공기 중 <link=\"DISEASE\">세균들</link> 및 숨 막히는 <link="
 "\"ELEMENTSGAS\">기체</link>와 같은 환경적 위험으로부터 보호합니다. 이 슈트를 "
-"활용하려면 외복 도크를 슈트 검사소에 연결한 다은 내부에 슈트를 보관해야 합니"
-"다.\n"
+"활용하려면 외부슈트 도크를 슈트 검사소에 연결한 다은 내부에 슈트를 보관해야 "
+"합니다.\n"
 "\n"
-"듀플리칸트들은 그들이 선택된 방향으로 검사지점을 지나갈 때 외복을 장비 할 것"
-"이고, 반대방향으로를 걸을때는 슈트를 벗을 것입니다."
+"듀플리칸트들은 그들이 선택된 방향으로 검사지점을 지나갈 때 외부슈트을 장비 "
+"할 것이고, 반대방향으로를 걸을때는 슈트를 벗을 것입니다."
 
 #. STRINGS.MISC.NOTIFICATIONS.SUITS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SUITS.NAME"
 msgid "TIP: Exosuits"
-msgstr "도움말: 외복"
+msgstr "도움말: 외부슈트"
 
 #. STRINGS.MISC.NOTIFICATIONS.SUITS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SUITS.TOOLTIP"
 msgid "Learn how to use exosuits"
-msgstr "외복 사용법 배우기"
+msgstr "외부슈트 사용법 배우기"
 
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY"
@@ -23210,18 +23212,18 @@ msgid ""
 "Duplicants may perform, or specialize skilled Duplicants for specific types "
 "of work."
 msgstr ""
-"듀플리칸트는 대기 중인 작업들중 우선순위가 높은 것부터 낮은 순서대로 처리합니"
+"듀플리칸트는 대기 중인 직업들중 우선순위가 높은 것부터 낮은 순서대로 처리합니"
 "다. 예를 들어, 듀플리칸트는 항상 만들기 전에 <link=\"FOOD\">식량</link>을 추"
 "수하고, 그들이 파기 전에 항상 새로운 구조물을 만듭니다.\n"
 "\n"
-"듀플리칸트가 어떤 작업을 할지 정하기 위해 작업 탭 <color=#F44A47><b>[J]</b></"
-"color>를 열어서 설정하거나, 아니면 숙련된 듀플리칸트를 특정 타입의 작업에 특"
+"듀플리칸트가 어떤 직업을 할지 정하기 위해 직업 탭 <color=#F44A47><b>[J]</b></"
+"color>를 열어서 설정하거나, 아니면 숙련된 듀플리칸트를 특정 타입의 직업에 특"
 "화하십시오."
 
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME"
 msgid "TIP: Errand Priorities"
-msgstr "도움말: 작업 우선 순위"
+msgstr "도움말: 직업 우선 순위"
 
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.TOOLTIP"
@@ -23338,12 +23340,12 @@ msgid ""
 "screen to begin planning errands. Once you've placed a few errands, your "
 "Duplicants will automatically get to work for you."
 msgstr ""
-"듀플리칸트는 자율적으로 움직이기 때문에 개척지에서 작업을 수행하기 위해 개별"
+"듀플리칸트는 자율적으로 움직이기 때문에 개척지에서 직업을 수행하기 위해 개별"
 "적인 관리가 필요하지 않습니다.\n"
 "\n"
 "<link=\"TOOLS\">채굴 도구</link> <color=#F44A47><b>[G]</b></color>와 화면 왼"
-"쪽 아래의 <link=\"BUILD MENU\">시설 메뉴</link>를 사용하면 작업 계획을 시작"
-"할 수 있습니다. 몇 가지 계획을 세워두면, 듀플리칸트가 자동으로 작업하게 됩니"
+"쪽 아래의 <link=\"BUILD MENU\">시설 메뉴</link>를 사용하면 직업 계획을 시작"
+"할 수 있습니다. 몇 가지 계획을 세워두면, 듀플리칸트가 자동으로 직업하게 됩니"
 "다."
 
 #. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.NAME
@@ -23800,7 +23802,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME"
 msgid "Sweep Errand Assigned"
-msgstr "정리 작업 할당됨"
+msgstr "정리 직업 할당됨"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP"
@@ -23810,7 +23812,7 @@ msgstr "치울 듀플리칸트를 기다리는 중"
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME"
 msgid "Harvest Errand Assigned"
-msgstr "수확 작업 할당됨"
+msgstr "수확 직업 할당됨"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP"
@@ -23820,7 +23822,7 @@ msgstr "수확할 듀플리칸트를 기다리는 중"
 #. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME"
 msgid "Uproot Errand Assigned"
-msgstr "파내기 작업 할당됨"
+msgstr "파내기 직업 할당됨"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
@@ -23847,7 +23849,7 @@ msgctxt "STRINGS.MISC.STATUSITEMS.PRIORITIZED.TOOLTIP"
 msgid ""
 "This errand has been mark as important and will be preferred over other "
 "pending tasks"
-msgstr "이 작업은 중요하고 다른 보류 작업보다 선호될 것입니다"
+msgstr "이 직업은 중요하고 다른 보류 직업보다 선호될 것입니다"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.NAME"
@@ -23968,7 +23970,7 @@ msgstr "{Target}이(가) 현재 사용 중 입니다"
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME"
 msgid "Dig Errand Assigned"
-msgstr "채굴 작업 할당됨"
+msgstr "채굴 직업 할당됨"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP"
@@ -23978,7 +23980,7 @@ msgstr "채굴할 듀플리칸트를 기다리는 중"
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME"
 msgid "Mop Errand Assigned"
-msgstr "닦기 작업 할당됨"
+msgstr "닦기 직업 할당됨"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP"
@@ -26111,8 +26113,8 @@ msgid ""
 msgstr ""
 "선정 된 연구 초점은 완료 하는 연구의 진보 된 유형을 요구 한다\n"
 "\n"
-"이 작업을 활성화하려면 작업 패널 <color=#F44A47>[L]</color>을 사용하여 연구 "
-"조교 작업에 듀플리칸트 할당"
+"이 직업을 활성화하려면 직업 패널 <color=#F44A47>[L]</color>을 사용하여 연구 "
+"조교 직업에 듀플리칸트 할당"
 
 #. STRINGS.RESEARCH.MESSAGING.NORESEARCHSELECTED
 msgctxt "STRINGS.RESEARCH.MESSAGING.NORESEARCHSELECTED"
@@ -26152,22 +26154,22 @@ msgstr "중급 연구 단계"
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONVEYOR_OVERLAY.DESC
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONVEYOR_OVERLAY.DESC"
 msgid "Enables access to the Conveyor Overlay."
-msgstr "컨베이어 오버레이에 대한 액세스를 활성화합니다."
+msgstr "운반 오버레이에 대한 액세스를 활성화합니다."
 
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONVEYOR_OVERLAY.NAME
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.CONVEYOR_OVERLAY.NAME"
 msgid "Conveyor Overlay"
-msgstr "컨베이어 오버레이"
+msgstr "운반 오버레이"
 
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.SUITS_OVERLAY.DESC
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.SUITS_OVERLAY.DESC"
 msgid "Enables access to the Exosuit Overlay."
-msgstr "외복 오버레이에 대한 액세스를 활성화합니다."
+msgstr "외부슈트 오버레이에 대한 액세스를 활성화합니다."
 
 #. STRINGS.RESEARCH.OTHER_TECH_ITEMS.SUITS_OVERLAY.NAME
 msgctxt "STRINGS.RESEARCH.OTHER_TECH_ITEMS.SUITS_OVERLAY.NAME"
 msgid "Exosuit Overlay"
-msgstr "외복 오버레이"
+msgstr "외부슈트 오버레이"
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDFILTRATION.DESC
 #, fuzzy
@@ -26759,7 +26761,7 @@ msgid ""
 "It can be conducted at a <link=\"RESEARCHCENTER\">Research Station</link>."
 msgstr ""
 "<link=\"RESEARCH\">기초 연구</link>는 기초 기술을 개발하기 위해 필요합니다.\n"
-"이 연구는 <link=\"RESEARCHCENTER\">연구실</link>에서 수행할 수 있습니다."
+"이 연구는 <link=\"RESEARCHCENTER\">연구소</link>에서 수행할 수 있습니다."
 
 #. STRINGS.RESEARCH.TYPES.ALPHA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.NAME"
@@ -27940,7 +27942,7 @@ msgstr "{0}"
 #. STRINGS.UI.BUILDINGEFFECTS.REFILLOXYGENTANK
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REFILLOXYGENTANK"
 msgid "Refills ExosuitOxygen Tank"
-msgstr "외복 산소 탱크 리필"
+msgstr "외부슈트 산소 탱크 리필"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REFINEMENT_ENERGY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REFINEMENT_ENERGY"
@@ -28005,7 +28007,7 @@ msgstr "두개의 <link=\"LIQUIDPIPING\">액체 배출 배관</link>"
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESMANUALOPERATION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESMANUALOPERATION"
 msgid "Duplicant operation"
-msgstr "듀플리칸트 작업"
+msgstr "듀플리칸트 직업"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWER"
@@ -28451,7 +28453,7 @@ msgstr "이 시설 사용시 나열된 효과들을 제거"
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESCREATIVITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESCREATIVITY"
 msgid "A Duplicant must work on this object to create art"
-msgstr "듀플리칸트는 예술을 창조하기 위해 이 객체에 대해 작업해야 합니다"
+msgstr "듀플리칸트는 예술을 창조하기 위해 이 객체에 대해 직업해야 합니다"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESELEMENT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESELEMENT"
@@ -28461,17 +28463,17 @@ msgstr "작동하려면 {0}을(를) 공급받아야 합니다"
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASINPUT"
 msgid "Must receive gas from a gas pipe system"
-msgstr "기체관 시스템을 통해 기체를 받아야 합니다"
+msgstr "가스관 시스템을 통해 기체를 받아야 합니다"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUT"
 msgid "Must expel gas through a gas pipe system"
-msgstr "기체관 시스템을 통해 기체를 배출해야 합니다"
+msgstr "가스관 시스템을 통해 기체를 배출해야 합니다"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUTS"
 msgid "Must expel gas through a gas pipe system"
-msgstr "기체관 시스템을 통해 기체를 배출해야 합니다"
+msgstr "가스관 시스템을 통해 기체를 배출해야 합니다"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDINPUT"
@@ -28524,7 +28526,7 @@ msgstr "식물 씨앗을 받아야 합니다"
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.RESEARCH_MATERIALS"
 msgid ""
 "This research station consumes {1} of {0} for each research point produced"
-msgstr "이 연구실은 각 연구 지점에 대해 {0}의 {1}을 소비합니다"
+msgstr "이 연구소은 각 연구 지점에 대해 {0}의 {1}을 소비합니다"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STORAGECAPACITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STORAGECAPACITY"
@@ -29921,12 +29923,12 @@ msgstr "<b><size=13>개인 관심 분야:</size></b>"
 #. STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.APTITUDES.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.APTITUDES.TOOLTIP"
 msgid "{0} enjoys these types of work"
-msgstr "{0}은 이러한 유형의 작업을 즐깁니다"
+msgstr "{0}은 이러한 유형의 직업을 즐깁니다"
 
 #. STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.CURRENT_ROLE.NAME
 msgctxt "STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.CURRENT_ROLE.NAME"
 msgid "<size=13><b>Current Job:</b> {0}</size>"
-msgstr "<size=13><b>현재 작업:</b> {0}</size>"
+msgstr "<size=13><b>현재 직업:</b> {0}</size>"
 
 #. STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.CURRENT_ROLE.NOJOB_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.CURRENT_ROLE.NOJOB_TOOLTIP"
@@ -29936,7 +29938,7 @@ msgstr "이 {0}은 ... 현재 \"직업 간\"입니다"
 #. STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.CURRENT_ROLE.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.CURRENT_ROLE.TOOLTIP"
 msgid "{0} is currently working as a {1}"
-msgstr "{0}은(는) 현재 {1}(으)로 작업중입니다"
+msgstr "{0}은(는) 현재 {1}(으)로 직업중입니다"
 
 #. STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.JOBTRAINING_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.JOBTRAINING_TOOLTIP"
@@ -29959,7 +29961,7 @@ msgstr ""
 "듀플리칸트가 직업에 관해 배운 모든 특성과 기대는 그 직업이 마스터되면 영구적"
 "으로 됩니다.\n"
 "------------------\n"
-"작업을 전환해도 이러한 특성은 제거되지 않습니다."
+"직업을 전환해도 이러한 특성은 제거되지 않습니다."
 
 #. STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.NO_MASTERED_ROLES.NAME
 msgctxt "STRINGS.UI.DETAILTABS.PERSONALITY.RESUME.NO_MASTERED_ROLES.NAME"
@@ -30697,7 +30699,7 @@ msgstr "시간 명세:"
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TIME_SPENT.POSITIVE_TOOLTIP"
 msgid ""
 "Your Duplicants spent a total of {0} doing errands over the course of the day"
-msgstr "당신의 듀플리칸트들은 하루 동안 총{0}개의 작업을 했습니다"
+msgstr "당신의 듀플리칸트들은 하루 동안 총{0}개의 직업을 했습니다"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME"
@@ -31223,7 +31225,7 @@ msgid ""
 "You cannot undo this action."
 msgstr ""
 "정말 <p0>을(를) 삭제할까요?\n"
-"이 작업은 취소할 수 없습니다."
+"이 직업은 취소할 수 없습니다."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE"
@@ -31544,8 +31546,7 @@ msgstr ""
 "\n"
 "• 직업 게시판이 추가되었습니다! 기술 향상, 독특한 특성 및 멋진 새 모자를 위"
 "한 새로운 직업에서 듀플리칸트 고용\n"
-"• 기지 주변의 고체 물질을 신속하게 운반할 수있는 새로운 컨베이어 레일 시스"
-"템\n"
+"• 기지 주변의 고체 물질을 신속하게 운반할 수있는 새로운 운반 레일 시스템\n"
 "•보다 보람있는 농업 경험을위한 식량 및 식물 재조정\n"
 "• 수많은 버그 수정, 성능 향상, QOL 추가 등!\n"
 "\n"
@@ -31669,7 +31670,7 @@ msgstr ""
 "\n"
 "이는 대체로 오디오 드라이버가 최신이 아닌 것이 원인입니다.\n"
 "\n"
-"오디오 장치 제조사 웹사이트를 방문하여 최신 드라이버를 다운로드하세요."
+"오디오 장치 제조사 웹사이트를 방문하여 최신 드라이버를 다운적재하세요."
 
 #. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.DUPLICATE_KEY_BINDINGS
 msgctxt "STRINGS.UI.FRONTEND.SUPPORTWARNINGS.DUPLICATE_KEY_BINDINGS"
@@ -31722,7 +31723,7 @@ msgstr "이 언어 팩을 제거할까요?"
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.DOWNLOAD
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.DOWNLOAD"
 msgid "Start Download"
-msgstr "다운로드 시작"
+msgstr "다운적재 시작"
 
 #. STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALL
 msgctxt "STRINGS.UI.FRONTEND.TRANSLATIONS_SCREEN.INSTALL"
@@ -32439,22 +32440,22 @@ msgstr "{Key} 우선 순위 낮추기"
 #. STRINGS.UI.JOBSSCREEN.DECREASE_ROW_PRIORITY_MINION_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.DECREASE_ROW_PRIORITY_MINION_TOOLTIP"
 msgid "Depriotize <b>All Errands</b> for <b>{Name}</b>"
-msgstr "<b>{name}</b>에 대한 <b>모든 작업</b> 우선 순위를 낮춤"
+msgstr "<b>{name}</b>에 대한 <b>모든 직업</b> 우선 순위를 낮춤"
 
 #. STRINGS.UI.JOBSSCREEN.DECREASE_ROW_PRIORITY_NEW_MINION_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.DECREASE_ROW_PRIORITY_NEW_MINION_TOOLTIP"
 msgid "Deprioritize <b>All Errands</b> for <b>New Duplicants</b>"
-msgstr "<b>새 듀플리칸트들</b>의 <b>모든 작업</b>의 우선순위를 낮춤"
+msgstr "<b>새 듀플리칸트들</b>의 <b>모든 직업</b>의 우선순위를 낮춤"
 
 #. STRINGS.UI.JOBSSCREEN.DISABLED_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.DISABLED_TOOLTIP"
 msgid "{Name} may not perform {Job} Errands"
-msgstr "{Name}이(가) {Job} 작업을 수행하지 않을 수도 있습니다"
+msgstr "{Name}이(가) {Job} 직업을 수행하지 않을 수도 있습니다"
 
 #. STRINGS.UI.JOBSSCREEN.HEADER_CHANGE_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.HEADER_CHANGE_TOOLTIP"
 msgid "Set the priority for <b>{Job} Errands</b> colonywide\n"
-msgstr "개척지 전체의 <b>{Job} 작업</b> 우선 순위 설정\n"
+msgstr "개척지 전체의 <b>{Job} 직업</b> 우선 순위 설정\n"
 
 #. STRINGS.UI.JOBSSCREEN.HEADER_DETAILS_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.HEADER_DETAILS_TOOLTIP"
@@ -32465,7 +32466,7 @@ msgid ""
 msgstr ""
 "{Description}\n"
 "\n"
-"영향을 받은 작업 : {ChoreList}"
+"영향을 받은 직업 : {ChoreList}"
 
 #. STRINGS.UI.JOBSSCREEN.HEADER_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.HEADER_TOOLTIP"
@@ -32490,12 +32491,12 @@ msgstr "{Key} 우선 순위 높이기"
 #. STRINGS.UI.JOBSSCREEN.INCREASE_ROW_PRIORITY_MINION_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.INCREASE_ROW_PRIORITY_MINION_TOOLTIP"
 msgid "Prioritize <b>All Errands</b> for <b>{Name}</b>"
-msgstr "<b>{Name}</b>의 <b>모든 작업</b>에 우선 순위를 부여"
+msgstr "<b>{Name}</b>의 <b>모든 직업</b>에 우선 순위를 부여"
 
 #. STRINGS.UI.JOBSSCREEN.INCREASE_ROW_PRIORITY_NEW_MINION_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.INCREASE_ROW_PRIORITY_NEW_MINION_TOOLTIP"
 msgid "Prioritize <b>All Errands</b> for <b>New Duplicants</b>"
-msgstr "<b>신규 듀플리칸트들</b>의 <b>모든 작업</b>에 우선 순위를 부여함"
+msgstr "<b>신규 듀플리칸트들</b>의 <b>모든 직업</b>에 우선 순위를 부여함"
 
 #. STRINGS.UI.JOBSSCREEN.ITEM_AUTO_ASSIGNED_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.ITEM_AUTO_ASSIGNED_TOOLTIP"
@@ -32506,7 +32507,7 @@ msgstr ""
 #. STRINGS.UI.JOBSSCREEN.ITEM_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.ITEM_TOOLTIP"
 msgid "{Job} Errands are a {Priority} Priority for <b>{Name}</b>"
-msgstr "{Job} 작업은 <b>{Name}</b>의 {Priority} 우선 순위입니다"
+msgstr "{Job} 직업은 <b>{Name}</b>의 {Priority} 우선 순위입니다"
 
 #. STRINGS.UI.JOBSSCREEN.MINION_SKILL_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.MINION_SKILL_TOOLTIP"
@@ -32519,7 +32520,7 @@ msgid ""
 "{Job} Errands are automatically a {Priority} Priority for <b>Arriving "
 "Duplicants</b>"
 msgstr ""
-"{Job} 작업은 자동으로 <b>듀플리칸트들 도착</b>에 대한 {Priority} 우선 순위입"
+"{Job} 직업은 자동으로 <b>듀플리칸트들 도착</b>에 대한 {Priority} 우선 순위입"
 "니다"
 
 #. STRINGS.UI.JOBSSCREEN.PRIORITY.DEFAULT
@@ -32550,17 +32551,17 @@ msgstr "매우 높음"
 #. STRINGS.UI.JOBSSCREEN.SORT_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.SORT_TOOLTIP"
 msgid "Sort by {Job} Errand priorities"
-msgstr "{Job} 기준으로 정렬 작업 우선 순위"
+msgstr "{Job} 기준으로 정렬 직업 우선 순위"
 
 #. STRINGS.UI.JOBSSCREEN.TITLE
 msgctxt "STRINGS.UI.JOBSSCREEN.TITLE"
 msgid "MANAGE ERRAND PRIORITIES"
-msgstr "작업 정책 관리"
+msgstr "직업 정책 관리"
 
 #. STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ALL
 msgctxt "STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ALL"
 msgid "Set all errand priorities colonywide"
-msgstr "개척지 전체 모든 작업 우선 순위 설정"
+msgstr "개척지 전체 모든 직업 우선 순위 설정"
 
 #. STRINGS.UI.LISTENTRYSTRING
 msgctxt "STRINGS.UI.LISTENTRYSTRING"
@@ -32640,22 +32641,22 @@ msgstr "측정불가"
 #. STRINGS.UI.OVERLAYS.CONVEYOR.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.CONVEYOR.BUTTON"
 msgid "Conveyor Overlay"
-msgstr "컨베이어 오버레이"
+msgstr "운반 오버레이"
 
 #. STRINGS.UI.OVERLAYS.CONVEYOR.INPUT
 msgctxt "STRINGS.UI.OVERLAYS.CONVEYOR.INPUT"
 msgid "Receptacle"
-msgstr "리셉터클"
+msgstr "용기"
 
 #. STRINGS.UI.OVERLAYS.CONVEYOR.NAME
 msgctxt "STRINGS.UI.OVERLAYS.CONVEYOR.NAME"
 msgid "CONVEYOR OVERLAY"
-msgstr "컨베이어 오버레이"
+msgstr "운반 오버레이"
 
 #. STRINGS.UI.OVERLAYS.CONVEYOR.OUTPUT
 msgctxt "STRINGS.UI.OVERLAYS.CONVEYOR.OUTPUT"
 msgid "Loader"
-msgstr "로더"
+msgstr "적재기"
 
 #. STRINGS.UI.OVERLAYS.CONVEYOR.TOOLTIPS.INPUT
 msgctxt "STRINGS.UI.OVERLAYS.CONVEYOR.TOOLTIPS.INPUT"
@@ -32663,8 +32664,8 @@ msgid ""
 "<b>Receptacle</b>\n"
 "Receives material from a Conveyor Rail and stores it for Duplicant use"
 msgstr ""
-"<b>리셉터클</b>\n"
-"컨베이어 레일에서 재료를 수신하여 듀플리칸트 사용을 위해 저장"
+"<b>용기</b>\n"
+"운반 레일에서 재료를 수신하여 듀플리칸트 사용을 위해 저장"
 
 #. STRINGS.UI.OVERLAYS.CONVEYOR.TOOLTIPS.OUTPUT
 msgctxt "STRINGS.UI.OVERLAYS.CONVEYOR.TOOLTIPS.OUTPUT"
@@ -32672,8 +32673,8 @@ msgid ""
 "<b>Loader</b>\n"
 "Loads material onto a Conveyor Rail for transport to Receptacles"
 msgstr ""
-"<b>로더</b>\n"
-"리셉터클로 수송을 위한 컨베이어 레일에 재질 로드"
+"<b>적재기</b>\n"
+"용기로 수송을 위한 운반 레일에 재료 적재"
 
 #. STRINGS.UI.OVERLAYS.CROP.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.CROP.BUTTON"
@@ -33093,7 +33094,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.BUTTON"
 msgid "Ventilation Overlay"
-msgstr "기체관 오버레이"
+msgstr "가스관 오버레이"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.CONNECTED"
@@ -33128,7 +33129,7 @@ msgstr "여과된 배출 배관"
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.NAME
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.NAME"
 msgid "VENTILATION OVERLAY"
-msgstr "기체관 오버레이"
+msgstr "가스관 오버레이"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.NETWORK"
@@ -33143,7 +33144,7 @@ msgstr "시설 흡입구"
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONNECTED"
 msgid "Connected to a <link=\"GASPIPING\">Gas Pipe</link>"
-msgstr "<link=\"GASPIPING\">기체관</link>에 연결됨"
+msgstr "<link=\"GASPIPING\">가스관</link>에 연결됨"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONSUMER"
@@ -33161,7 +33162,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.DISCONNECTED"
 msgid "Not connected to a <link=\"GASPIPING\">Gas Pipe</link>"
-msgstr "<link=\"GASPIPING\">기체관</link>에 연결되지 않음"
+msgstr "<link=\"GASPIPING\">가스관</link>에 연결되지 않음"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.FILTERED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.FILTERED"
@@ -34026,17 +34027,17 @@ msgstr "듀플리칸트 침실이 완성됨"
 #. STRINGS.UI.OVERLAYS.SUIT.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.SUIT.BUTTON"
 msgid "Exosuit Overlay"
-msgstr "외복 오버레이"
+msgstr "외부슈트 오버레이"
 
 #. STRINGS.UI.OVERLAYS.SUIT.NAME
 msgctxt "STRINGS.UI.OVERLAYS.SUIT.NAME"
 msgid "EXOSUIT OVERLAY"
-msgstr "외복 오버레이"
+msgstr "외부슈트 오버레이"
 
 #. STRINGS.UI.OVERLAYS.SUIT.SUIT_ICON
 msgctxt "STRINGS.UI.OVERLAYS.SUIT.SUIT_ICON"
 msgid "Exosuit"
-msgstr "외복"
+msgstr "외부슈트"
 
 #. STRINGS.UI.OVERLAYS.SUIT.SUIT_ICON_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.SUIT.SUIT_ICON_TOOLTIP"
@@ -34044,8 +34045,8 @@ msgid ""
 "<b>Exosuit</b>\n"
 "Highlights the current location of equippable exosuits"
 msgstr ""
-"<b>외복</b>\n"
-"장비가 갖추어진 외복의 현재 위치를 강조 표시합니다"
+"<b>외부슈트</b>\n"
+"장비가 갖추어진 외부슈트의 현재 위치를 강조 표시합니다"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.BUTTON"
@@ -34133,7 +34134,7 @@ msgid ""
 "1: Least Urgent\n"
 "9: Most Urgent"
 msgstr ""
-"계류중인 작업에 대한 긴급도를 설정합니다.\n"
+"계류중인 직업에 대한 긴급도를 설정합니다.\n"
 "\n"
 "듀플리칸트 우선 순위 <color=#F44A47>[J]</color>에 의해 긴급성은 항상 무시됩니"
 "다.\n"
@@ -34233,7 +34234,7 @@ msgid ""
 "({1} of {2} allocated to pending errands)"
 msgstr ""
 "사용 가능 : {0}\n"
-"({2} 중 {1}은 보류중인 작업에 할당됨)"
+"({2} 중 {1}은 보류중인 직업에 할당됨)"
 
 #. STRINGS.UI.RESOURCESCREEN.CATEGORY_TOOLTIP
 msgctxt "STRINGS.UI.RESOURCESCREEN.CATEGORY_TOOLTIP"
@@ -34259,7 +34260,7 @@ msgstr "{0}은(는) 이미 <b>실업 상태</b>입니다"
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.ALREADY_IS_ROLE
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.ALREADY_IS_ROLE"
 msgid "{0} <b>is already</b> assigned to the job {1}"
-msgstr "작업 {1}에 {0}이 (가) <b> 이미 할당되었습니다 </b>."
+msgstr "직업 {1}에 {0}이 (가) <b> 이미 할당되었습니다 </b>."
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.APTITUDES
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.APTITUDES"
@@ -34271,7 +34272,7 @@ msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.CHOREGROUP_ENABLED."
 "DESCRIPTION"
 msgid "Capable of performing <b>{0}</b> jobs"
-msgstr "<b>{0}</b> 작업 수행 가능"
+msgstr "<b>{0}</b> 직업 수행 가능"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.CHOREGROUP_ENABLED.NAME
 msgctxt ""
@@ -34412,7 +34413,7 @@ msgstr "자격"
 msgctxt ""
 "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.UNEMPLOYED.DESCRIPTION"
 msgid "Duplicant must not already have a job assignment"
-msgstr "듀플리칸트는 아직 작업이 할당되어 있지 않아야 함"
+msgstr "듀플리칸트는 아직 직업이 할당되어 있지 않아야 함"
 
 #. STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.UNEMPLOYED.NAME
 msgctxt "STRINGS.UI.ROLES_SCREEN.ASSIGNMENT_REQUIREMENTS.UNEMPLOYED.NAME"
@@ -34439,7 +34440,7 @@ msgid ""
 "Duplicant priorities are automatically reconfigured when they are assigned a "
 "new job"
 msgstr ""
-"듀플리칸트 작업 우선 순위는 새로운 작업이 할당되면 자동으로 재구성됩니다"
+"듀플리칸트 직업 우선 순위는 새로운 직업이 할당되면 자동으로 재구성됩니다"
 
 #. STRINGS.UI.ROLES_SCREEN.DROPDOWN.ALREADY_ROLE
 msgctxt "STRINGS.UI.ROLES_SCREEN.DROPDOWN.ALREADY_ROLE"
@@ -34568,7 +34569,7 @@ msgstr "최고의 음식"
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.NO_EXPECTATIONS
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.NO_EXPECTATIONS"
 msgid "No additional provisions are required to perform this job"
-msgstr "이 작업을 수행하기 위해 추가 조항이 필요하지 않음"
+msgstr "이 직업을 수행하기 위해 추가 조항이 필요하지 않음"
 
 #. STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.PRIVATE_ROOM.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.EXPECTATIONS.PRIVATE_ROOM.DESCRIPTION"
@@ -34593,12 +34594,12 @@ msgstr "<b>최고의 기대치</b>"
 #. STRINGS.UI.ROLES_SCREEN.MANAGEMENT_BUTTON
 msgctxt "STRINGS.UI.ROLES_SCREEN.MANAGEMENT_BUTTON"
 msgid "JOBS"
-msgstr "작업"
+msgstr "직업"
 
 #. STRINGS.UI.ROLES_SCREEN.NO_JOB_STATION_WARNING
 msgctxt "STRINGS.UI.ROLES_SCREEN.NO_JOB_STATION_WARNING"
 msgid "Build a Jobs Board to unlock Job Assignments"
-msgstr "작업 할당을 해제할 작업 게시판 작성"
+msgstr "직업 할당을 해제할 직업 게시판 작성"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.ADVANCED_RESEARCH.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.ADVANCED_RESEARCH.DESCRIPTION"
@@ -34657,7 +34658,7 @@ msgstr "특성 : 지형지물 <link=\"ANALYSIS\">분석</link>"
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION"
 msgid "Trait: Grooming Station Training"
-msgstr "특성 : 미용실 연습중"
+msgstr "특성 : 애완 동물 미용실 연습중"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_WRANGLE_CREATURES.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_WRANGLE_CREATURES.DESCRIPTION"
@@ -34667,12 +34668,12 @@ msgstr "특성 : 동물 포획중"
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CONVEYOR_BUILD.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CONVEYOR_BUILD.DESCRIPTION"
 msgid "Trait: <link=\"CONVEYOR RAIL\">Conveyor Rail System</link> Construction"
-msgstr "특성: <link=\"CONVEYOR RAIL\">컨베이어 레일 시스템</link> 건설중"
+msgstr "특성: <link=\"CONVEYOR RAIL\">운반 레일 시스템</link> 건설중"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION"
 msgid "Trait: <link=\"EXOSUIT\">Exosuit</link> Sprinting"
-msgstr "특성: <link=\"EXOSUIT\">외복</link> 빠른 실행중"
+msgstr "특성: <link=\"EXOSUIT\">외부슈트</link> 빠른 실행중"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.INCREASE_BOTANIST.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.INCREASE_BOTANIST.DESCRIPTION"
@@ -34702,7 +34703,7 @@ msgstr "+{0}까지 간호력"
 #. STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_CARRY_AMOUNT.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_CARRY_AMOUNT.DESCRIPTION"
 msgid "+{0}kg to Carrying Capacity"
-msgstr "+{0}kg까지 적재량"
+msgstr "+{0}kg까지 운반량"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_CONSTRUCTION.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.INCREASED_CONSTRUCTION.DESCRIPTION"
@@ -34742,7 +34743,7 @@ msgstr "개척지 스트레스 해소"
 #. STRINGS.UI.ROLES_SCREEN.PERKS.MANAGERIAL_DUTIES.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.MANAGERIAL_DUTIES.DESCRIPTION"
 msgid "Workload stress"
-msgstr "작업 부하 스트레스"
+msgstr "직업 부하 스트레스"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.NO_PERKS
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.NO_PERKS"
@@ -34762,12 +34763,12 @@ msgstr "추가 직업 훈련"
 #. STRINGS.UI.ROLES_SCREEN.PRIORITY.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PRIORITY.DESCRIPTION"
 msgid "{0}s prioritize these work errands: "
-msgstr "{0}은 다음과 같은 작업의 우선 순위를 지정: "
+msgstr "{0}은 다음과 같은 직업의 우선 순위를 지정: "
 
 #. STRINGS.UI.ROLES_SCREEN.PRIORITY.NO_EFFECT
 msgctxt "STRINGS.UI.ROLES_SCREEN.PRIORITY.NO_EFFECT"
 msgid "This job does not affect errand prioritization"
-msgstr "이 직업은 작업 우선 순위에 영향을 주지 않습니다"
+msgstr "이 직업은 직업 우선 순위에 영향을 주지 않습니다"
 
 #. STRINGS.UI.ROLES_SCREEN.PRIORITY.TITLE
 msgctxt "STRINGS.UI.ROLES_SCREEN.PRIORITY.TITLE"
@@ -34853,7 +34854,7 @@ msgstr "빈 자리"
 #. STRINGS.UI.ROLES_SCREEN.SLOTS.UNASSIGNED_TOOLTIP
 msgctxt "STRINGS.UI.ROLES_SCREEN.SLOTS.UNASSIGNED_TOOLTIP"
 msgid "Click to assign a Duplicant to this job opening"
-msgstr "이 작업 열기에 듀플리칸트를 할당하려면 클릭"
+msgstr "이 직업 열기에 듀플리칸트를 할당하려면 클릭"
 
 #. STRINGS.UI.ROLES_SCREEN.TIER_NAMES.FIVE
 msgctxt "STRINGS.UI.ROLES_SCREEN.TIER_NAMES.FIVE"
@@ -34979,8 +34980,8 @@ msgid ""
 "WORK:\n"
 "During Work hours Duplicants will perform any pending errands in the colony."
 msgstr ""
-"작업:\n"
-"작업 시간동안 듀플리칸트는 개척지에서 대기 중인 작업을 수행합니다."
+"직업:\n"
+"직업 시간동안 듀플리칸트는 개척지에서 대기 중인 직업을 수행합니다."
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.NAME
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.NAME"
@@ -35144,7 +35145,7 @@ msgstr "취소"
 #. STRINGS.UI.TOOLS.CANCEL.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.CANCEL.TOOLACTION"
 msgid "DRAG TO CANCEL ACTION"
-msgstr "드래그하여 작업 취소"
+msgstr "드래그하여 직업 취소"
 
 #. STRINGS.UI.TOOLS.CANCEL.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.CANCEL.TOOLNAME"
@@ -35279,7 +35280,7 @@ msgstr "수확 비활성화"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES"
 msgid "Gas Pipes"
-msgstr "기체관"
+msgstr "가스관"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.HARVEST_WHEN_READY
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.HARVEST_WHEN_READY"
@@ -35299,7 +35300,7 @@ msgstr "자동화"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.SOLIDCONDUITS
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.SOLIDCONDUITS"
 msgid "Conveyor Rails"
-msgstr "컨베이어   레일"
+msgstr "운반   레일"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.TILES
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.TILES"
@@ -35447,7 +35448,7 @@ msgstr "기본 값"
 #. STRINGS.UI.TOOLTIPS.CANCELBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CANCELBUTTON"
 msgid "Drag to cancel errands"
-msgstr "드래그하여 작업 취소"
+msgstr "드래그하여 직업 취소"
 
 #. STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON"
@@ -35477,7 +35478,7 @@ msgstr "닫기"
 #. STRINGS.UI.TOOLTIPS.CONVEYOR_OVERLAY_STRING
 msgctxt "STRINGS.UI.TOOLTIPS.CONVEYOR_OVERLAY_STRING"
 msgid "Displays conveyor transport components"
-msgstr "컨베이어 전송 구성 원소를 표시"
+msgstr "운반 전송 구성 원소를 표시"
 
 #. STRINGS.UI.TOOLTIPS.CROPS_OVERLAY_STRING
 msgctxt "STRINGS.UI.TOOLTIPS.CROPS_OVERLAY_STRING"
@@ -35497,7 +35498,7 @@ msgstr "장식 수치를 표시합니다"
 #. STRINGS.UI.TOOLTIPS.DIGBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.DIGBUTTON"
 msgid "Drag to set dig errands"
-msgstr "드래그하여 채굴 작업 설정"
+msgstr "드래그하여 채굴 직업 설정"
 
 #. STRINGS.UI.TOOLTIPS.DISEASEOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.DISEASEOVERLAYSTRING"
@@ -35537,7 +35538,7 @@ msgstr "<link=\"POWER\">전력</link> 필요함"
 #. STRINGS.UI.TOOLTIPS.GASVENTOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.GASVENTOVERLAYSTRING"
 msgid "Displays gas pipe system components"
-msgstr "기체관 시설의 구성원소를 표시합니다"
+msgstr "가스관 시설의 구성원소를 표시합니다"
 
 #. STRINGS.UI.TOOLTIPS.HARVESTBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.HARVESTBUTTON"
@@ -35635,12 +35636,12 @@ msgstr "아이템 패널은 듀플리칸트가 갖고 있는 모든 아이템을
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_ATTRIBUTES"
 msgid ""
 "The following attributes affect a Duplicant's efficiency at this errand:"
-msgstr "듀플리칸트의 다음 속성들은 현재 작업 효율에 영향을 미침:"
+msgstr "듀플리칸트의 다음 속성들은 현재 직업 효율에 영향을 미침:"
 
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_CANNOTPERFORMTASK
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_CANNOTPERFORMTASK"
 msgid "{0} cannot perform this errand."
-msgstr "{0}은(는) 이 작업을 수행할 수 없습니다."
+msgstr "{0}은(는) 이 직업을 수행할 수 없습니다."
 
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_PRIORITY
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_PRIORITY"
@@ -35650,10 +35651,10 @@ msgid ""
 "However, a busy Duplicant will continue to work on their current errand "
 "until it's complete, even if a more urgent errand becomes available."
 msgstr ""
-"비 우선순위의 작업전에 우선순위의 작업이 항상 수행됩니다. \n"
+"비 우선순위의 직업전에 우선순위의 직업이 항상 수행됩니다. \n"
 "\n"
-"그러나, 바쁜 듀플리칸트는 현재 수행 작업을 끝내기 전까지는 현재 수행 작업보"
-"다 높은 우선순위의 작업이 가능하더라도 수행 중인 작업을 계속합니다."
+"그러나, 바쁜 듀플리칸트는 현재 수행 직업을 끝내기 전까지는 현재 수행 직업보"
+"다 높은 우선순위의 직업이 가능하더라도 수행 중인 직업을 계속합니다."
 
 #. STRINGS.UI.TOOLTIPS.JOBSSCREEN_RELEVANT_ATTRIBUTES
 msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_RELEVANT_ATTRIBUTES"
@@ -35698,7 +35699,7 @@ msgstr "일일 개척지 보고서 보기"
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS"
 msgid "Manage Duplicants' errand priorities"
-msgstr "듀플리칸트의 작업 우선 순위 관리"
+msgstr "듀플리칸트의 직업 우선 순위 관리"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_RESEARCH
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_RESEARCH"
@@ -35836,12 +35837,12 @@ msgstr "전력망의 구성원소를 표시합니다"
 #. STRINGS.UI.TOOLTIPS.PRIORITIESOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIESOVERLAYSTRING"
 msgid "Displays errand urgency values"
-msgstr "작업 긴급도 값을 표시"
+msgstr "직업 긴급도 값을 표시"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON"
 msgid "Drag to set errand urgency"
-msgstr "드래그하여 긴급도 작업 설정"
+msgstr "드래그하여 긴급도 직업 설정"
 
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON"
@@ -35961,7 +35962,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.SUITOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.SUITOVERLAYSTRING"
 msgid "Displays Exosuits and related buildings"
-msgstr "외복 및 관련 시설들을 표시합니다"
+msgstr "외부슈트 및 관련 시설들을 표시합니다"
 
 #. STRINGS.UI.TOOLTIPS.TEMPERATUREOVERLAYSTRING
 msgctxt "STRINGS.UI.TOOLTIPS.TEMPERATUREOVERLAYSTRING"
@@ -36199,7 +36200,7 @@ msgstr "부적격"
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.DISABLED_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.DISABLED_TOOLTIP"
 msgid "{0} is ineligible for this job assignment"
-msgstr "이 작업 할당에 {0}이(가) 부적합합니다"
+msgstr "이 직업 할당에 {0}이(가) 부적합합니다"
 
 #. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.PUBLIC
 msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.PUBLIC"
@@ -37051,12 +37052,12 @@ msgstr "요청 취소"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIG_CANCEL_REQUEST_TOOLTIP"
 msgid "Cancel this suit delivery"
-msgstr "외복 운반 취소"
+msgstr "외부슈트 운반 취소"
 
 #. STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIG_DROP_SUIT
 msgctxt "STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIG_DROP_SUIT"
 msgid "Undock Exosuit"
-msgstr "외복 도킹해제"
+msgstr "외부슈트 도킹해제"
 
 #. STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIG_DROP_SUIT_NO_SUIT_TOOLTIP
 msgctxt ""
@@ -37079,12 +37080,12 @@ msgctxt "STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIG_NO_SUIT_TOOLTIP"
 msgid ""
 "The next suited Duplicant to pass by will unequip their Exosuit and dock it "
 "here"
-msgstr "다음에 슈트를 입은 듀플리칸트가 외복을 벗고 여기에 도킹합니다"
+msgstr "다음에 슈트를 입은 듀플리칸트가 외부슈트을 벗고 여기에 도킹합니다"
 
 #. STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIG_REQUEST_SUIT
 msgctxt "STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIG_REQUEST_SUIT"
 msgid "Deliver Exosuit"
-msgstr "외복 운반"
+msgstr "외부슈트 운반"
 
 #. STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIG_REQUEST_SUIT_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.SUIT_SIDE_SCREEN.CONFIG_REQUEST_SUIT_TOOLTIP"
@@ -38065,8 +38066,8 @@ msgid ""
 msgstr ""
 "슈트를 보관할 공간이 없어도 슈트를 입은 듀플리칸트들이 통과할 수 있습니다\n"
 "------------------\n"
-"외복 도크들이 모두 가득 찼다면, 듀플리칸트들은 그들의 슈트들을 벗고, 바닥에 "
-"떨궈 놓을 것입니다"
+"외부슈트 도크들이 모두 가득 찼다면, 듀플리칸트들은 그들의 슈트들을 벗고, 바닥"
+"에 떨궈 놓을 것입니다"
 
 #. STRINGS.UI.USERMENUACTIONS.SUIT_MARKER_TRAVERSAL.ONLY_WHEN_ROOM_AVAILABLE.NAME
 msgctxt ""
@@ -38083,8 +38084,8 @@ msgid ""
 "Suited Duplicants may pass only if there is room in an Exosuit Dock to store "
 "their suit"
 msgstr ""
-"슈트를 입은 듀플리칸트들은 외복 도크에 슈트를 보관할 공간이있는 경우에만 통"
-"과 할 수 있습니다"
+"슈트를 입은 듀플리칸트들은 외부슈트 도크에 슈트를 보관할 공간이있는 경우에만 "
+"통과 할 수 있습니다"
 
 #. STRINGS.UI.USERMENUACTIONS.TAGFILTER.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.TAGFILTER.NAME"
